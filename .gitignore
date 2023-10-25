@@ -1,3 +1,5 @@
+*.npz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -109,6 +111,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +130,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Sphinx build
+_build/
+.idea/
+
+# VS Code
+.vscode
+
+# OS X
+.DS_Store
