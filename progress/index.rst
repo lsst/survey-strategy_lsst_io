@@ -20,9 +20,9 @@ Survey Progress
 
 .. This section should provide a brief, top-level description of the page.
 
-`Timeline Updates <https://dmtn-232.lsst.io>`_.
+When will the LSST begin? `Timeline Updates <https://dmtn-232.lsst.io>`_.
 
-Please see `RTN-011 <https://rtn-011.lsst.io>`_ for updates on Early Science (including plans for release of data within the first year of LSST).
+What will the first data releases include? Please see `RTN-011 <https://rtn-011.lsst.io>`_ for updates on Early Science.
 
 To be added: documentation about survey progress monitoring plans.
 
@@ -31,4 +31,4 @@ To be added: documentation about survey progress monitoring plans.
     :titlesonly:
     :glob:
 
-    *
+..   *

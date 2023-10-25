@@ -20,11 +20,16 @@ Baseline Strategy
 
 .. This section should provide a brief, top-level description of the page.
 
-The baseline survey strategy for Rubin Observatory will be described here.
+Describe the baseline survey strategy and metric results. Track changes to the strategy over time.
+
+Download baseline from --
+
+V1.x - V2.x (2.1, 2.2??) - V3.0 - V3.2 - V3.3
+Interleave with links to recommendations/reports.
 
 .. toctree::
     :maxdepth: 2
     :titlesonly:
     :glob:
 
-    *
+..   *

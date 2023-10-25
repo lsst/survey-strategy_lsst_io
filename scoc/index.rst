@@ -8,7 +8,7 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _SCOC-Index:
+.. _SCOC_Index:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
@@ -20,14 +20,16 @@ SCOC Activities
 
 .. This section should provide a brief, top-level description of the page.
 
-The Survey Cadence Optimization Committee (SCOC) guides strategic decisions on the Vera C. Rubin Observatory's Legacy Survey of Space and Time survey optimization. The LSST public website contains more information on the `SCOC <https://www.lsst.org/content/charge-survey-cadence-optimization-committee-scoc>`_, including details on its charge and purpose and current membership.
-
-Links to reports
-Links to minutes on community
+The Survey Cadence Optimization Committee (SCOC) guides strategic decisions on the Vera C. Rubin Observatory's Legacy Survey of Space and Time survey optimization.
+The LSST public website contains more information on the `SCOC <https://www.lsst.org/content/charge-survey-cadence-optimization-committee-scoc>`_, including details of its charge and current membership.
 
 .. toctree::
     :maxdepth: 2
     :titlesonly:
     :glob:
 
-    *
+    reports
+
+    minutes
+
+    process

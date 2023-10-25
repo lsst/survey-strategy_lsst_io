@@ -8,37 +8,14 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Survey-Strategy-Index:
+.. _SCOC-reports:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#########################################
-Vera C. Rubin Observatory Survey Strategy
-#########################################
+#####################
+Reports and Documents
+#####################
 
-The survey strategy for the Vera C. Rubin Observatory is the result of balancing the four primary science drivers for the Legacy Survey of Space and Time (LSST):
-
-* constraining dark energy and dark matter,
-* mapping the Milky Way and Local Volume,
-* exploring the transient universe, and
-* cataloging the Solar System
-
-While also attempting to include as much science for the entire astronomical community as possible.
-
-Developing the survey strategy is a partnership between the project and community, guided by the Rubin Survey Cadence Optimization Committee (SCOC).
-
-
-.. toctree::
-
-   baseline/index
-
-   progress/index
-
-   scoc/index
-
-   community/index
-
-
-
+Links to and summaries of current reports (PSTNs)
