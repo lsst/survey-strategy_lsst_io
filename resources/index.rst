@@ -25,9 +25,9 @@ Software
 
 Simulations of the LSST are generated using the Feature Based Scheduler (FBS) and associated models of the telescope and weather conditions. Evaluations of the resulting simulated pointing histories are carried out with the Metrics Analysis Framework (MAF).
 
-More documentation on the FBS and site models is available on the rubin_sim documentation website under the `scheduler <https://rubin-sim.lsst.io/rs_scheduler/index.html>`_ and `site_models <https://rubin-sim.lsst.io/rs_site_models/index.html>`_ sections. There are also notebooks containing `scheduler tutorials <https://github.com/lsst/rubin_sim_notebooks/tree/main/scheduler>`_ available illustrating how to set up and run the scheduler.
+More documentation on the FBS and site models is available in the `rubin_scheduler <https://rubin-scheduler.lsst.io>`_ documentation under the FBS Scheduler and Site Models sections. There are also notebooks containing `scheduler tutorials <https://github.com/lsst/rubin_sim_notebooks/tree/main/scheduler>`_ available illustrating how to set up and run the scheduler.
 
-More documentation on MAF is also available on the rubin_sim documentation, under the `MAF <https://rubin-sim.lsst.io/rs_maf/index.html>`_ section, however more extensive information is available in our `MAF tutorials <https://github.com/lsst/rubin_sim_notebooks/tree/main/maf/tutorial>`_.
+More documentation on MAF is also available in the `rubin_sim <https://rubin-sim.lsst.io>`_ documentation, in the MAF section, however more extensive information is available in our `MAF tutorials <https://github.com/lsst/rubin_sim_notebooks/tree/main/maf/tutorial>`_.
 
 Please note that both of these software packages can be easily installed via
 conda or pip. For most use-cases, additional data must also be downloaded, following instructions
