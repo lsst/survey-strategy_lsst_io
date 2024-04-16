@@ -1,0 +1,17 @@
+[project]
+title = "Observing Strategy"
+copyright = "2015-2023 Association of Universities for Research in Astronomy, Inc. (AURA)"
+author = "Vera C. Rubin Observatory"
+base_url = "https://survey-strategy.lsst.io"
+github_url = "https://github.com/lsst/survey-strategy_lsst_io"
+github_default_branch = "main"
+version = "Current"
+
+[sphinx.linkcheck]
+ignore = [
+    "notebooks/*",
+    "https://arxiv.org/pdf/.*#",
+    "http://localhost",
+    "https://minorplanetcenter.net//iau/info/MPOrbitFormat.html",
+    "https://www.minorplanetcenter.net/iau/MPCORB.html"
+]
