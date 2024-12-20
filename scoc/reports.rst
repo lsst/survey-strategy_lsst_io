@@ -24,3 +24,5 @@ Survey strategy recommendations from the SCOC:
 
 * `PSTN-055 <https://pstn-055.lsst.io>`_ Survey Cadence Optimization Committee’s Phase 2 Recommendations (2023)
 
+* `PSTN-056 <https://pstn-056.lsst.io>`_ Survey Cadence Optimization Committee's Phase 3 Recommendations (2024)
+

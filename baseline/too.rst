@@ -26,9 +26,11 @@ Details of what ToOs could entail, how they would be triggered, and how they sho
 be observed are still under discussion.
 
 The `Rubin ToO 2024 <https://lssttooworkshop.github.io>`_ workshop provided an
-opportunity to more fully define the requirements for ToO observations. A report
-will be available shortly.
+opportunity to more fully define the requirements for ToO observations. The
+`report <https://lssttooworkshop.github.io/images/Rubin_2024_ToO_workshop_final_report.pdf>`_
+from this workshop is available now.
 
+Details of how to implement ToO followup within Rubin are still under discussion.
 
 
 .. toctree::

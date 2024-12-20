@@ -25,8 +25,8 @@ chosen to maximize multi-wavelength coverage with pre-existing surveys.
 One of the pointings, the Euclid Deep Field South (EDFS) pointing, is a larger field
 and so is split between an 'a' and 'b' pointing which share the DDF visits.
 
-The DDFs use a total of about 6% of the total survey time.
-Each DDF receives on the order of 21,000 visits, except COSMOS which receives
+The DDFs use a total of about 6.5% of the total survey time.
+Each DDF receives on the order of 23,000 visits, except COSMOS which receives
 approximately double that. The COSMOS
 field has been selected to receive additional coverage, in order to
 reach 10-year DDF depth within the first 3 years of the survey as a pathfinder
@@ -39,12 +39,12 @@ for fainter per-night measurements as well as sub-minute time sampling.
 =======  =========  =========  =======  ========  ========  ========
 ..         ELAISS1    XMM_LSS    ECDFS    COSMOS    EDFS_a    EDFS_b
 =======  =========  =========  =======  ========  ========  ========
-RA            9.45      35.71    53.12    150.1      58.9      63.6
-Dec         -44         -4.75   -28.1       2.18    -49.32    -47.6
-Gal l       311.3      171.21   224.07    236.83    257.89    254.48
-Gal b       -72.91     -58.77   -54.47     42.09    -48.46    -45.77
-Eclip l     346.68      31.74    40.99    151.4      32.01     40.97
-Eclip b     -43.18     -17.9    -45.47     -9.39    -66.6     -66.6
+RA            9.45      35.57    52.98    150.11     58.9      63.6
+Dec         -44.02      -4.82   -28.12      2.23    -49.32    -47.6
+Gal l       311.29     171.1    224.07    236.78    257.9     254.48
+Gal b       -72.88     -58.91   -54.6      42.13    -48.46    -45.77
+Eclip l     346.66      31.59    40.81    151.39     32        40.97
+Eclip b     -43.2      -17.92   -45.44     -9.34    -66.61    -66.6
 =======  =========  =========  =======  ========  ========  ========
 
 
