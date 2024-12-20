@@ -62,6 +62,7 @@ survey observing a single field more than ten or twenty times in during a single
 v3.5
 ====
 The v3.5 simulations represent early versions of the phase 3 recommendations. The changes include:
+
 * uniform rolling (pauses in rolling cadence for year 4 and year 7 data releases)
 * exposure time changes in u band (38s) and other bandpasses reduced to 29 seconds
 * readout time changed to 2.4 seconds
