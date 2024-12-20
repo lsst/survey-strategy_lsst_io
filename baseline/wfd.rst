@@ -34,7 +34,7 @@ All of the WFD area receives approximately the same number of visits per pointin
 (around 800), although the balance of visits between different filters varies
 between the low-dust and other areas.
 
-The low-dust WFD uses a ``rolling cadence``, alternating high and low activity
+The low-dust WFD uses a *rolling cadence*, alternating high and low activity
 areas on the sky each year.  There is no rolling in year 1, to provide uniform
 all-sky coverage at DR2 for better calibration and catalog creation.
 
@@ -43,7 +43,7 @@ visit to a pointing are separated by about 33 minutes. These pairs are obtained
 in different filters except for y band: u+g, u+r, g+r, r+i, i+z, z+y, y+y.
 Using different filters for pairs allows determination of colors for variables
 and transients.
-About 2.5% of all pairs receive a later (3-7 hours later) third visit in the
+About 3% of all pairs (4% of all visits) receive a later (3-7 hours later) third visit in the
 same filter as one of the earlier pair. While these triplets are a small fraction
 of the overall visits, they provide valuable opportunities for fast transient
 identification.

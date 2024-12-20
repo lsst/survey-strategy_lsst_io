@@ -39,7 +39,7 @@ at https://rubin-sim.lsst.io/data-download.html#downloading-necessary-data.
 Simulations
 ===========
 
-The most recent set of simulations (v3.4) are available for download at https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs3.4/
+The current official baseline simulations (v4.0) are available for download at https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs4.0/
 
 Previous sets of simulations are also available for download, under similar URLs at
 https://s3df.slac.stanford.edu/data/rubin/sim-data/
@@ -48,7 +48,7 @@ Metric Evaluation Outputs
 =========================
 
 The outputs of our standard metric evaluations (via MAF) for the above simulations
-are available at http://astro-lsst-01.astro.washington.edu:8080.
+are available at https://usdf-maf.slac.stanford.edu/
 
 
 

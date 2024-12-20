@@ -28,6 +28,67 @@ All of the updates below are (so far) pre-commissioning, pre-operations.
 
 (Note: WFD = Wide Fast Deep; DDF = Deep Drilling Field).
 
+v4.0
+====
+This represents an official update to the baseline survey strategy.
+These simulations should be very similar to v3.6, with a few minor bugfixes
+related to handling the additional downtime during year that would increase
+the overall number of observations during year one very slightly.
+
+`v4.0 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs4.0/tree/main/baseline>`_.
+
+`v4.0 metric updates <https://github.com/lsst-pst/survey_strategy/blob/main/fbs_4.0/v4.0_Update.ipynb>`_.
+
+v3.6
+====
+These simulations are updated versions of the v3.5 simulations, but standardized with
+additional downtime in year 1. This additional downtime is the survey scheduling team's
+attempt to represent expected observatory efficiency throughout year one. The actual downtime
+is likely to vary significantly depending on results during commissioning.
+In addition, ToOs are included in every simulation, which lowers the overall efficiency
+of observations slightly.
+
+The DDF dither pattern was modified in v3.6 to reduce the dither to 0.2 degrees
+instead of 0.7 degrees. This significantly improves the cadence within the DDFs.
+
+The near-sun microsurvey was modified to skip attempted observations when the moon
+is close to the desired portion of sky. This removed the instances of the near-sun twilight
+survey observing a single field more than ten or twenty times in during a single twilight.
+
+`v3.6 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs3.6/tree/main/baseline>`_.
+
+`v3.6 metric updates <https://github.com/lsst-pst/survey_strategy/blob/main/fbs_3.6/v3.6_Update.ipynb>`_.
+
+v3.5
+====
+The v3.5 simulations represent early versions of the phase 3 recommendations. The changes include:
+* uniform rolling (pauses in rolling cadence for year 4 and year 7 data releases)
+* exposure time changes in u band (38s) and other bandpasses reduced to 29 seconds
+* readout time changed to 2.4 seconds
+* bluer filter balance in LMC/SMC
+* updated footprint in galactic plane, including directing visits toward the Roman deep field
+* DDF scheduling updated, leading to more observations per DDF in year one
+
+Notable in the changes above are the slight reduction in amount of time spent in
+rolling cadence -- uniform rolling includes 3 cycles (6 years) of rolling cadence
+while v3.1 to v3.4 included 4 cycles (8 years) of rolling cadence. One of the simulations
+included in the v3.5 release does illustrate 4 years of rolling cadence.
+
+Another notable difference is the shift in exposure times per bandpass. This is equivalent
+to shifting the survey back towards the u-band depths per visit that were present before
+the mirror coating and throughputs update in v3.3.
+
+There was a minor bugfix introduced, to reduce the number of non-paired
+visits per night. There was also a bugfix added to ensure that morning twilight
+near-sun microsurvey visits include r band when appropriate.
+
+Some simulations in v3.5 include ToOs, as indicated in their filename.
+Some simulations in v3.5 include additional downtime in year one - this additional
+downtime was adopted as standard at v3.6.
+
+`v3.5 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs3.5/tree/main/baseline>`_.
+
+`v3.5 metric updates <https://github.com/lsst-pst/survey_strategy/blob/main/fbs_3.5/v3.5_Update.ipynb>`_.
 
 v3.4
 =====

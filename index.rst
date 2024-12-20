@@ -27,7 +27,7 @@ The survey strategy for the Vera C. Rubin Observatory is the result of balancing
 
 while also attempting to include as much science for the entire astronomical community as possible.
 
-Developing the survey strategy is a partnership between the project and community, guided by the Rubin Survey Cadence Optimization Committee (SCOC).
+Developing the survey strategy is a partnership between the project and community, guided by the Rubin `Survey Cadence Optimization Committee (SCOC) <https://rubinobservatory.org/for-scientists/committees-teams/scoc>`_.
 
 
 .. toctree::

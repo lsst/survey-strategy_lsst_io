@@ -39,14 +39,14 @@ up to ecliptic latitude of +10 degrees. This enables discovery and monitoring
 of Solar System Objects throughout the ecliptic plane.
 
 The NES is only observed in g, r, i and z filters, dropping u and y, with
-a median of 189 visits per pointing.
+a median of 180 visits per pointing.
 
 Dusty (Galactic) Plane
 ======================
 
 Portions of the Galactic Plane are covered at WFD levels, however this is not
 possible for the entire plane. The remainder of the galactic plane
-is included in the Dusty Plane minisurvey, which receives approximately 245
+is included in the Dusty Plane minisurvey, which receives approximately 220
 visits per pointing.
 
 South Celestial Pole
@@ -54,7 +54,7 @@ South Celestial Pole
 
 The South Celestial Pole (SCP) covers the remainder of the visible southern sky beyond
 the WFD (and Magellanic Cloud extension in the LMC + SMC) and dusty plane.
-This completes the survey footprint. The SCP receives approximately 118 visits
+This completes the survey footprint. The SCP receives approximately 115 visits
 per pointing.
 
 

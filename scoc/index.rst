@@ -21,7 +21,7 @@ SCOC Activities
 .. This section should provide a brief, top-level description of the page.
 
 The Survey Cadence Optimization Committee (SCOC) guides strategic decisions on the Vera C. Rubin Observatory's Legacy Survey of Space and Time survey optimization.
-The LSST public website contains more information on the `SCOC <https://www.lsst.org/content/charge-survey-cadence-optimization-committee-scoc>`_, including details of its charge and current membership.
+The LSST public website contains more information on the `SCOC <https://rubinobservatory.org/for-scientists/committees-teams/scoc>`_, including details of its `charge <https://rtn-089.lsst.io/>`_ and current membership.
 
 
 
