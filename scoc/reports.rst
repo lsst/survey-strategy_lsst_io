@@ -14,15 +14,39 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#####################
-SCOC Reports
-#####################
+#####################################
+SCOC Reports and Related Publications
+#####################################
 
-Survey strategy recommendations from the SCOC:
 
-* `PSTN-051 <https://pstn-053.lsst.io>`_ Survey Cadence Optimization Committee’s Phase 1 Recommendation (2022)
+'''Survey strategy recommendations from the SCOC'''
 
-* `PSTN-055 <https://pstn-055.lsst.io>`_ Survey Cadence Optimization Committee’s Phase 2 Recommendations (2023)
+* `PSTN-051 <https://pstn-053.lsst.io>`_ Phase 1 Recommendations (2022)
 
-* `PSTN-056 <https://pstn-056.lsst.io>`_ Survey Cadence Optimization Committee's Phase 3 Recommendations (2024)
+* `PSTN-055 <https://pstn-055.lsst.io>`_ Phase 2 Recommendations (2023)
+
+* `PSTN-056 <https://pstn-056.lsst.io>`_ Phase 3 Recommendations (2024)
+
+Recommendations will be updated throughout operations.
+
+
+'''Construction-era reports from the Survey Scheduling Team'''
+
+* `PSTN-051 <https://pstn-051.lsst.io/>`_ Survey Strategy and Cadence Choices
+
+* `PSTN-052 <https://pstn-052.lsst.io>`_ Rolling Cadence - an early report (2021)
+
+* `PSTN-054 <https://pstn-054.lsst.io>`_ Throughput and limiting magnitudes estimates (2022)
+
+* `Notebooks <https://github.com/lsst-pst/survey_strategy>`_ evaluating various stages of the survey strategy
+
+
+'''Minutes and announcements'''
+
+The SCOC meeting minutes are posted on the Rubin Community Forum at
+https://community.lsst.org/t/public-scoc-meeting-minutes/.
+
+
+
+
 

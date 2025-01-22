@@ -20,14 +20,22 @@ SCOC and the Community
 
 The SCOC values its interactions with and input from the community.
 
+'''Observing Strategy Publications'''
+
+`Bianco et al. (2022)
+<https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ 
+describes Rubin's community-driven survey strategy optimization process and the role of the SCOC.
+
 The `ApJS Focus Issue on Rubin Cadence
 <https://iopscience.iop.org/journal/0067-0049/page/rubin_cadence>`_
-contains a collection of papers related to community cadence work.
-The `introductory paper
-<https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ in this
-issue provides an overview of the interactions between the SCOC and the
-community leading to the SCOC Phase 2 Recommendations
-(`PSTN-055 <https://pstn-055.lsst.io>`_).
+contains a collection of peer-reviewed papers related to community cadence work.
 
+The community also responded generously with white papers and cadence notes in:
+* The `2021 Cadence Notes <https://www.lsst.org/submitted-whitepaper-2018>`_
+* The `2018 Cadence White Papers <http://www.lsst.org/submitted-whitepaper-2018>`_
+* The `Community Observing Strategy White Paper <https://github.com/LSSTScienceCollaborations/ObservingStrategy>`_ (COSEP, Marshall et al. 2017) 
+
+
+'''Task Forces'''
 
 
