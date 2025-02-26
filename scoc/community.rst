@@ -31,8 +31,6 @@ Workshops
 
 * `The Second SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop2/home>`_ (11/2021)
 
-   * `Notes from the Second Workshop <https://www.lsst.org/content/charge-survey-cadence-optimization-committee-scoc/notes>`_
-
 * `The First SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop/about>`_ (12/2020)
 
 
@@ -42,6 +40,8 @@ White papers and cadence notes
 ==============================
 
 * 2022 `Reports from the Science Collaborations on the v2 simulations <https://www.lsst.org/content/reports-scs-v2x-simulations>`_ (2022)
+
+* 2021 :doc:`/scoc/lists/2021-notes-from-the-second-workshop`
 
 * 2021 `Cadence Notes <https://www.lsst.org/content/survey-cadence-notes-2021>`_
 
