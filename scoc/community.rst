@@ -20,25 +20,40 @@ Community contributions
 
 The SCOC values its interactions with, and input from, the community.
 
+.. _SCOC-Community-Workshops:
+
 Workshops
 =========
 
-* `The First SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop/about>`_ (12/2020)
-* `The Second SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop2/home>`_ (11/2021)
-   * `Notes from the Second Workshop <https://www.lsst.org/content/charge-survey-cadence-optimization-committee-scoc/notes>`_
+* `The Fourth SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop4/home>`_ (01/2023)
+
 * `The Third SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop3/home>`_ (11/2022)
 
+* `The Second SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop2/home>`_ (11/2021)
+
+   * `Notes from the Second Workshop <https://www.lsst.org/content/charge-survey-cadence-optimization-committee-scoc/notes>`_
+
+* `The First SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop/about>`_ (12/2020)
+
+
+.. _SCOC-Community-White-Papers:
 
 White papers and cadence notes
 ==============================
 
-The community also responded generously with white papers and cadence notes in:
-* The `2021 Cadence Notes <https://www.lsst.org/content/survey-cadence-notes-2021>`_ (`original solictation <https://docushare.lsst.org/docushare/dsweb/Get/Document-36755>`_)
-* The `2018 Cadence White Papers <http://www.lsst.org/submitted-whitepaper-2018>`_
-* The `Community Observing Strategy White Paper <https://github.com/LSSTScienceCollaborations/ObservingStrategy>`_ (COSEP, Marshall et al. 2017) 
 
-* `Reports from the Science Collaborations on the v2 simulations <https://www.lsst.org/content/reports-scs-v2x-simulations>`_ (2022)
+* 2022 `Reports from the Science Collaborations on the v2 simulations <https://www.lsst.org/content/reports-scs-v2x-simulations>`_ (2022)
 
+* 2021 `Cadence Notes <https://www.lsst.org/content/survey-cadence-notes-2021>`_
+
+   * `Original call for cadence notes <https://docushare.lsst.org/docushare/dsweb/Get/Document-36755>`_
+
+* 2018 `Cadence White Papers <http://www.lsst.org/submitted-whitepaper-2018>`_
+
+* 2017 `Community Observing Strategy White Paper <https://github.com/LSSTScienceCollaborations/ObservingStrategy>`_ (COSEP, Marshall et al. 2017) 
+
+
+.. _SCOC-Community-Task-Forces:
 
 Task forces
 ===========

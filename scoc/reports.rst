@@ -19,6 +19,8 @@ Reports and publications
 ########################
 
 
+.. _SCOC-reports-recommendations:
+
 SCOC recommendations
 ====================
 
@@ -26,7 +28,9 @@ Project Science Tech Notes (PSTN) reports from the SCOC.
 Similar recommendation reports will be created throughout operations.
 
 * `PSTN-056 <https://pstn-056.lsst.io>`_ Phase 3 Recommendations (2024)
+
 * `PSTN-055 <https://pstn-055.lsst.io>`_ Phase 2 Recommendations (2023)
+
 * `PSTN-053 <https://pstn-053.lsst.io>`_ Phase 1 Recommendations (2022)
 
 
@@ -36,14 +40,19 @@ SCOC endorsements
 * `SCOC endorsement of Euclid Deep Field South observations <https://community.lsst.org/t/scoc-endorsement-of-euclid-deep-field-south-observations/6406>`_ (2022)
 
 
+.. _SCOC-reports-SST:
+
 SST reports
 ===========
 
 PSTN created by Rubin staff on the Survey Scheduling Team (SST).
 
 * `PSTN-054 <https://pstn-054.lsst.io>`_ Throughput and limiting magnitudes estimates (2022)
+
 * `PSTN-052 <https://pstn-052.lsst.io>`_ Rolling Cadence - an early report (2021)
+
 * `PSTN-051 <https://pstn-051.lsst.io/>`_ Survey Strategy and Cadence Choices
+
 
 SST notebooks
 -------------
@@ -51,12 +60,15 @@ SST notebooks
 `Notebooks <https://github.com/lsst-pst/survey_strategy>`_ evaluating various stages of the survey strategy.
 
 
+.. _SCOC-reports-publications:
+
 Publications
 ============
 
 * `Bianco et al. (2022)
 <https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ 
 describes Rubin's community-driven survey strategy optimization process and the role of the SCOC.
+
 * The `ApJS Focus Issue on Rubin Cadence
 <https://iopscience.iop.org/journal/0067-0049/page/rubin_cadence>`_
 contains a collection of peer-reviewed papers related to community cadence work (2022-2025).

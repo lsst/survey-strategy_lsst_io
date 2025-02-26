@@ -20,4 +20,6 @@ Meeting minutes
 
 .. This section should provide a brief, top-level description of the page.
 
-The SCOC meeting minutes are posted on the Rubin Community Forum as a thread in the `Public SCOC meeting minutes <https://community.lsst.org/t/public-scoc-meeting-minutes/>`_ topic, which is in the `Science - Survey Strategy category <https://community.lsst.org/c/sci/survey-strategy/37>`_.
+The SCOC meeting minutes are posted on the Rubin Community Forum as a thread in the `Science - Survey Strategy category <https://community.lsst.org/c/sci/survey-strategy/37>`_.
+
+* `Public SCOC meeting minutes <https://community.lsst.org/t/public-scoc-meeting-minutes/>`_
