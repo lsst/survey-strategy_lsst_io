@@ -14,11 +14,10 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#####################
-SCOC Meeting Minutes
-#####################
+###############
+Meeting minutes
+###############
 
 .. This section should provide a brief, top-level description of the page.
 
-The SCOC meeting minutes are posted on the Rubin Community Forum at
-https://community.lsst.org/t/public-scoc-meeting-minutes/.
+The SCOC meeting minutes are posted on the Rubin Community Forum as a thread in the `Public SCOC meeting minutes <https://community.lsst.org/t/public-scoc-meeting-minutes/>`_ topic, which is in the `Science - Survey Strategy category <https://community.lsst.org/c/sci/survey-strategy/37>`_.
