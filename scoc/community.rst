@@ -41,7 +41,6 @@ Workshops
 White papers and cadence notes
 ==============================
 
-
 * 2022 `Reports from the Science Collaborations on the v2 simulations <https://www.lsst.org/content/reports-scs-v2x-simulations>`_ (2022)
 
 * 2021 `Cadence Notes <https://www.lsst.org/content/survey-cadence-notes-2021>`_

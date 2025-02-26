@@ -51,7 +51,7 @@ PSTN created by Rubin staff on the Survey Scheduling Team (SST).
 
 * `PSTN-052 <https://pstn-052.lsst.io>`_ Rolling Cadence - an early report (2021)
 
-* `PSTN-051 <https://pstn-051.lsst.io/>`_ Survey Strategy and Cadence Choices
+* `PSTN-051 <https://pstn-051.lsst.io/>`_ Survey Strategy and Cadence Choices (2021)
 
 
 SST notebooks
@@ -65,10 +65,8 @@ SST notebooks
 Publications
 ============
 
-* `Bianco et al. (2022)
-<https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ 
+* `Bianco et al. (2022) <https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ 
 describes Rubin's community-driven survey strategy optimization process and the role of the SCOC.
 
-* The `ApJS Focus Issue on Rubin Cadence
-<https://iopscience.iop.org/journal/0067-0049/page/rubin_cadence>`_
-contains a collection of peer-reviewed papers related to community cadence work (2022-2025).
+* The `ApJS Focus Issue on Rubin Cadence (2022-2025) <https://iopscience.iop.org/journal/0067-0049/page/rubin_cadence>`_
+contains a collection of peer-reviewed papers related to community cadence work.
