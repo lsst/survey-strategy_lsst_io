@@ -1,15 +1,15 @@
 .. _SCOC-lists-2021-notes-second-workshop:
 
-##########################################################
-Notes from The Second SCOC-Science Collaborations Workshop
-##########################################################
+#################################################################
+Notes from the second SCOC-Science Collaborations workshop (2021)
+#################################################################
 
 .. This section should provide a brief, top-level description of the page.
 
 
 .. list-table:: Notes
    :header-rows: 1
-   :widths: 1 4
+   :widths: 4 1
 
    * - Title
      - Link

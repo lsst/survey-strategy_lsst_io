@@ -39,17 +39,17 @@ Workshops
 White papers and cadence notes
 ==============================
 
-* 2022 `Reports from the Science Collaborations on the v2 simulations <https://www.lsst.org/content/reports-scs-v2x-simulations>`_ (2022)
+* :doc:`/scoc/lists/2022-reports-from-scs-on-v2-sims`
 
-* 2021 :doc:`/scoc/lists/2021-notes-from-the-second-workshop`
+* :doc:`/scoc/lists/2021-notes-from-the-second-workshop`
 
 * 2021 `Cadence Notes <https://www.lsst.org/content/survey-cadence-notes-2021>`_
 
    * `Original call for cadence notes <https://docushare.lsst.org/docushare/dsweb/Get/Document-36755>`_
 
-* 2018 `Cadence White Papers <http://www.lsst.org/submitted-whitepaper-2018>`_
+* :doc:`/scoc/lists/2018-white-papers`
 
-* 2017 `Community Observing Strategy White Paper <https://github.com/LSSTScienceCollaborations/ObservingStrategy>`_ (COSEP, Marshall et al. 2017) 
+* `Community Observing Strategy White Paper <https://github.com/LSSTScienceCollaborations/ObservingStrategy>`_ (COSEP, Marshall et al. 2017) 
 
 
 .. _SCOC-Community-Task-Forces:
