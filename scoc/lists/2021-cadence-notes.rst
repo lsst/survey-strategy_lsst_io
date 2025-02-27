@@ -11,7 +11,7 @@ The original call for cadence notes: `Document 36755 <https://docushare.lsst.org
 
 .. list-table:: Cadence Notes
    :header-rows: 1
-   :widths: 2 3 1
+   :widths: 1 3 1
 
    * - Authors
      - Title

@@ -9,7 +9,7 @@ Notes from the second SCOC-Science Collaborations workshop (2021)
 
 .. list-table:: Notes
    :header-rows: 1
-   :widths: 4 1
+   :widths: 3 1
 
    * - Title
      - Link

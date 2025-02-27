@@ -9,7 +9,7 @@ Reports from the Science Collaborations on the v2 simulations (2022)
 
 .. list-table:: Reports
    :header-rows: 1
-   :widths: 4 1
+   :widths: 3 1
 
    * - Title
      - Link
