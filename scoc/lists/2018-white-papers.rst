@@ -33,7 +33,7 @@ The original call for white papers on LSST cadence optimization: `Document 28382
      - `Docushare <https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30580/gezari_tde_rolling_wfd.pdf>`__
    * - A strategy for LSST to unveil a population of kilonovae</p><p>without gravitational-wave triggers
      - Igor Andreoni, Caltech; Shreya Anand, Caltech; Federica B. Bianco, NYU CUSP/CCPP NYU, University of Delaware; Brad Cenko, NASA-GSFC; Philip Cowperthwaite, Carnegie; Michael W. Coughlin, Caltech; Maria Drout, Dunlap Institute, University of Toronto; Danny Goldstein, Caltech; V. Zach Golkhou, University of Washington; Anna Ho, Caltech; David Kaplan, UW-Milwaukee; Kunal P. Mooley, Caltech; Tyler A. Pritchard, NYU; Mickael Rigault, CNRS; Leo P. Singer, NASA-GSFC
-     - `arXiv <https://arxiv.org/pdf/1812.03161.pdf>`__
+     - `arXiv <https://arxiv.org/pdf/1812.03161>`__
    * - Active Galaxy Science in the LSST Deep-Drilling Fields: Footprints, Cadence Requirements, and Total-Depth Requirements
      - W.N. Brandt (Penn State), Q. Ni (Penn State), G. Yang (Penn State), S.F. Anderson (Univ Washington), R.J. Assef (Univ Diego Portales), A.J. Barth (UC Irvine), F.E. Bauer (Católica), A. Bongiorno (Oss Ast Roma), C.-T. Chen (MSFC), D. De Cicco (Católica), S. Gezari (Univ Maryland), C.J. Grier (Penn State), P.B. Hall (York Univ), S.F. Hoenig (Univ Southampton), M. Lacy (NRAO), J. Li (Univ Illinois), B. Luo (Nanjing Univ), M. Paolillo (Univ Naples Fed II), B.M. Peterson (Ohio State), L.C. Popović (Ast Obs Belgrade), G.T. Richards (Drexel Univ), O. Shemmer (Univ N Texas), Y. Shen (Univ Illinois), M. Sun (USTC), J.D. Timlin (Penn State), J.R. You-Know-Who (Univ Connecticut), F. Vito (Católica), Z. Yu (Ohio State)
      - `Docushare <https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30468/AGN-DDF-WP-02.pdf>`__
@@ -141,7 +141,7 @@ The original call for white papers on LSST cadence optimization: `Document 28382
      - `Docushare <https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30482/strader_plane_wfd.pdf>`__
    * - Unique Science from a Coordinated LSST-WFIRST Survey of the Galactic Bulge
      - R.A. Street, M. Lund, M. Donachie, S. Khakpash, N. Golovich, M. Penny, D. Bennett, W.A. Dawson, J. Pepper, M. Rabus, P. Szkody, W.I. Clarkson, R. Di Stefano, N. Rattenbury, M.P.G. Hundertmark, Y. Tsapras, S. Ridgway, K. Stassun, V. Bozza, A. Bhattacharya, S. Calchi Novati, Y. Shvartzvald
-     - `arXiv <href="https://arxiv.org/pdf/1812.04445>`__
+     - `arXiv <https://arxiv.org/pdf/1812.04445>`__
    * - unVEil the darknesS of The gAlactic bulge (VESTALE)
      - G. Bono, M. Dall'Ora, M. Fabrizio, J. Crestani, V.F. Braga, G. Fiorentino, G.Altavilla, M.T. Botticella, A. Calamida, M. Castellani, M. Catelan, B. Chaboyer, C. Chiappini, W. Clarkson, R. Contreras Ramos, O. Creevey, R. da Silva, V. Debattista, S. Degl'Innocenti, I. Ferraro, C.K. Gilligan, O. Gonzalez, G. Iannicola, L. Inno, A. Kunder, B. Lemasle, L. Magrini, D. Magurno, M. Marconi, M. Marengo, S. Marinoni, P.M. Marrese, C.E. Martínez-Vazquez, N. Matsunaga, M. Monelli, P.G. Prada Moroni, I. Musella, M.G. Navarro, J. Neeley, M. Nonino, A. Pietrinferni, L. Pulone, M.R. Rich, V. Ripepi, G. Sacco, A. Saha, M. Salaris, C. Sneden, P.B. Stetson, R.A Street, R. Szabo, M. Tantalo, E. Tognelli, M. Torelli, E. Valenti, A.R. Walker, and M. Zoccali.
      - `Docushare <https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30571/dalla_ora_vestale_gp.pdf>`__
