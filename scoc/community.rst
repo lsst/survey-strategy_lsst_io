@@ -43,9 +43,7 @@ White papers and cadence notes
 
 * :doc:`/scoc/lists/2021-notes-from-the-second-workshop`
 
-* 2021 `Cadence Notes <https://www.lsst.org/content/survey-cadence-notes-2021>`_
-
-   * `Original call for cadence notes <https://docushare.lsst.org/docushare/dsweb/Get/Document-36755>`_
+* :doc:`/scoc/lists/2021-cadence-notes`
 
 * :doc:`/scoc/lists/2018-white-papers`
 
