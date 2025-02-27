@@ -9,7 +9,7 @@ Cadence notes (2021)
 The original call for cadence notes: `Document 36755 <https://docushare.lsst.org/docushare/dsweb/Get/Document-36755>`__.
 
 
-.. list-table:: Notes
+.. list-table:: Cadence Notes
    :header-rows: 1
    :widths: 2 3 1
 

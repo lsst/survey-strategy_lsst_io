@@ -9,7 +9,7 @@ Cadence optimization white papers (2018)
 The original call for white papers on LSST cadence optimization: `Document 28382 <https://docushare.lsst.org/docushare/dsweb/Get/Document-28382>`__.
 
 
-.. list-table:: Notes
+.. list-table:: White papers
    :header-rows: 1
    :widths: 2 3 1
 
@@ -31,7 +31,7 @@ The original call for white papers on LSST cadence optimization: `Document 28382
    * - A Smart and Colorful Cadence for the Wide-Fast Deep Survey
      - Suvi Gezari, (University of Maryland), Sjoert van Velzen (University of Maryland and NYU), Tiara Hung (University of California Santa Cruz), Brad Cenko (NASA/Goddard), and Iair Arcavi (Tel Aviv University)
      - `Docushare <https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30580/gezari_tde_rolling_wfd.pdf>`__
-   * - A strategy for LSST to unveil a population of kilonovae</p><p>without gravitational-wave triggers
+   * - A strategy for LSST to unveil a population of kilonovae without gravitational-wave triggers
      - Igor Andreoni, Caltech; Shreya Anand, Caltech; Federica B. Bianco, NYU CUSP/CCPP NYU, University of Delaware; Brad Cenko, NASA-GSFC; Philip Cowperthwaite, Carnegie; Michael W. Coughlin, Caltech; Maria Drout, Dunlap Institute, University of Toronto; Danny Goldstein, Caltech; V. Zach Golkhou, University of Washington; Anna Ho, Caltech; David Kaplan, UW-Milwaukee; Kunal P. Mooley, Caltech; Tyler A. Pritchard, NYU; Mickael Rigault, CNRS; Leo P. Singer, NASA-GSFC
      - `arXiv <https://arxiv.org/pdf/1812.03161>`__
    * - Active Galaxy Science in the LSST Deep-Drilling Fields: Footprints, Cadence Requirements, and Total-Depth Requirements
@@ -91,7 +91,7 @@ The original call for white papers on LSST cadence optimization: `Document 28382
    * - Maximizing the Joint Science Return of LSST and DESI
      - Adam S. Bolton, Daniel J. Eisenstein, Knut Olsen, Segev BenZvi, Tim Eifler, Satya Gontcho A Gontcho, Or Graur, Alex G. Kim, Elisabeth Krause, Ofer Lahav, Alexie Leauthaud, Patrick McDonald, John Moustakas, Eva-Maria Mueller, Jeffrey A. Newman, David J. Schlegel, Risa H. Wechsler, Martin White, and Michael J. Wilson
      - `Docusare <https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30603/bolton_desi_overlap_mini.pdf>`__
-   * - Mini-survey of the northern sky to Dec < +30
+   * - Mini-survey of the northern sky to Dec :math:`< +30`
      - P. Capak, D. Sconlic, J-C. Cuillandre, F. Castander, A. Bolton, R. Bowler, C. Chang, A. Dey, T. Eiffler, D. Eisenstein, C. Grillmair, P. Gris, N. Hernitschek, I. Hook, C. Hirata, B. Jain K. Kuijken, M. Lochner, J. Newman, P. Oesch, K. Olsen, J. Rhodes, B. Robertson, D. Rubin, C. Scarlata, J. Silverman, S. Wachter, Y. Wang, The Tri-Agency Working Group
      - `Docushare <https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30592/capak_north_mini.pdf>`__
    * - Optimizing the LSST Observing Strategy for Dark Energy Science: DESC Recommendations for the Deep Drilling Fields and other Special Programs

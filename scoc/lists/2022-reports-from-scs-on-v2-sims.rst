@@ -7,7 +7,7 @@ Reports from the Science Collaborations on the v2 simulations (2022)
 .. This section should provide a brief, top-level description of the page.
 
 
-.. list-table:: Notes
+.. list-table:: Reports
    :header-rows: 1
    :widths: 4 1
 
