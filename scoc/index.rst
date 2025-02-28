@@ -14,15 +14,13 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-###############
-SCOC Activities
-###############
+############
+SCOC Content
+############
 
 .. This section should provide a brief, top-level description of the page.
 
-The Survey Cadence Optimization Committee (SCOC) guides strategic decisions on the Vera C. Rubin Observatory's Legacy Survey of Space and Time survey optimization.
-The LSST public website contains more information on the `SCOC <https://rubinobservatory.org/for-scientists/committees-teams/scoc>`_, including details of its `charge <https://rtn-089.lsst.io/>`_ and current membership.
-
+The Survey Cadence Optimization Committee (SCOC; ess-see-oh-see) guides strategic decisions on the Vera C. Rubin Observatory's Legacy Survey of Space and Time survey optimization.
 
 
 .. toctree::
@@ -30,10 +28,7 @@ The LSST public website contains more information on the `SCOC <https://rubinobs
     :titlesonly:
     :glob:
 
-    reports
-
-    minutes
-
     process
-
     community
+    reports
+    minutes
