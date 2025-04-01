@@ -35,6 +35,9 @@ for Data Management processing and science opportunities.
 The cadence for DDF visits is still under development, but will retain
 sequences of 10-20 visits per filter within a night, offering the opportunity
 for fainter per-night measurements as well as sub-minute time sampling.
+The
+`DDF Task Force <https://docs.google.com/document/d/14_yHmpsLpM0eRuphk_EEWXiOHYsfnW0Qp35K0ZGGwqk/edit?usp=sharing>`_
+is a useful contact point.
 
 =======  =========  =========  =======  ========  ========  ========
 ..         ELAISS1    XMM_LSS    ECDFS    COSMOS    EDFS_a    EDFS_b
@@ -48,6 +51,10 @@ Eclip b     -43.2      -17.92   -45.44     -9.34    -66.61    -66.6
 =======  =========  =========  =======  ========  ========  ========
 
 
+
+Notable Updates:
+
+First Published:
 
 
 .. toctree::

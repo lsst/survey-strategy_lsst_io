@@ -47,6 +47,8 @@ White papers and cadence notes
 
 * :doc:`/scoc/lists/2018-white-papers`
 
+* :doc:`/scoc/lists/2011-ddf-white-papers`
+
 * `Community Observing Strategy White Paper <https://github.com/LSSTScienceCollaborations/ObservingStrategy>`_ (COSEP, Marshall et al. 2017) 
 
 
