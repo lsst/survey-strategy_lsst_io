@@ -40,3 +40,8 @@ Team and the Survey Evaluation Working Group (SEWG).
 .. 
 .. * `Initial timeline (2020) <https://www.lsst.org/sites/default/files/SCOC%20Handout.pdf>`_
 .. * `First revised timeline (2021) <https://www.lsst.org/sites/default/files/for-scientists/SCOChandoutWorkshop2.pdf>`_
+
+
+.. admonition:: Last Updated
+
+   Last Updated 2025/02/26

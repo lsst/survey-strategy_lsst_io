@@ -20,8 +20,8 @@ Micro Surveys
 
 .. This section should provide a brief, top-level description of the page.
 
-At this time, the SCOC has only endorsed one microsurvey, the near-sun twilight
-microsurvey. If commissioning or early operations shows sufficient survey efficiency,
+At this time, the SCOC has only endorsed one microsurvey to operate within LSST's first year,
+the near-sun twilight  microsurvey. If commissioning or early operations shows sufficient survey efficiency,
 an additional microsurvey covering a small area of sky northward of the WFD may be added.
 The addition of further microsurveys will be considered after the start of Operations.
 
@@ -51,10 +51,7 @@ airmasses of 1.8 and greater.
 
 .. image:: ../notebooks/baseline_v4.0_10yrs_solar_elongation_twi.png
   :width: 600
-  :alt: The distribution of solar elongations for the near-sun twilight microsurvey, compared to the remainder of the survey. The near-sun twilight microsurvey solar elongations range from
-
-
-
+  :alt: The distribution of solar elongations for the near-sun twilight microsurvey, compared to the remainder of the survey. The near-sun twilight microsurvey solar elongations range from 35 to 47 degrees while the remainder of the survey's visits peak at around 130 degrees solar elongation and rarely fall below 60 degrees.
 
 
 .. toctree::
@@ -62,6 +59,10 @@ airmasses of 1.8 and greater.
     :titlesonly:
     :glob:
 
+
+.. admonition:: Last Updated
+
+   Last Updated 2024/12/19
 
 
 ..   *

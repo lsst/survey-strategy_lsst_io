@@ -14,16 +14,19 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-###########################
+################################
 Target of Opportunity (ToO)
-###########################
+################################
 
 .. This section should provide a brief, top-level description of the page.
 
-The SCOC has recommended that up to 3% of the survey time be available for
+The SCOC has recommended that up to 3% of Rubin's survey time be available for
 Target of Opportunity observations (`PSTN-055 <https://pstn-055.lsst.io>`_).
 Details of what ToOs could entail, how they would be triggered, and how they should
 be observed are still under discussion.
+
+ToO Followup Expectations
+=========================
 
 The `Rubin ToO 2024 <https://lssttooworkshop.github.io>`_ workshop provided an
 opportunity to more fully define the requirements for ToO observations. The
@@ -33,11 +36,14 @@ from this workshop is available now.
 Details of how to implement ToO followup within Rubin are still under discussion.
 
 
+
 .. toctree::
     :maxdepth: 2
     :titlesonly:
     :glob:
 
+.. admonition:: Last Updated
 
+   Last Updated 2024/12/19
 
 ..   *

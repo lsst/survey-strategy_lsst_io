@@ -68,3 +68,8 @@ Publications
 * `Bianco et al. (2022) <https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ describes Rubin's community-driven survey strategy optimization process and the role of the SCOC.
 
 * The `ApJS Focus Issue on Rubin Cadence (2022-2025) <https://iopscience.iop.org/journal/0067-0049/page/rubin_cadence>`_ contains a collection of peer-reviewed papers related to community cadence work.
+
+
+.. admonition:: Last Updated
+
+   Last Updated 2025/02/26

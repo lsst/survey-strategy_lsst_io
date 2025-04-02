@@ -14,14 +14,17 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#####################
+#########################
 Wide Fast Deep (WFD)
-#####################
+#########################
 
 .. This section should provide a brief, top-level description of the page.
 
-The Wide Fast Deep (WFD) composes the bulk of the survey visits. The WFD sky
-includes low-dust extinction area, useful for extragalactic science, as well
+Rubin Observatory's LSST Wide Fast Deep (WFD) composes the bulk of the survey's visits,
+using about 80% of the total survey time. The WFD is designed to achieve much of the core
+science goals of the LSST.
+
+The WFD sky includes low-dust extinction area, useful for extragalactic science, as well
 as higher stellar density areas (with higher dust extinction), useful for
 galactic science. The total area in the WFD is approximately 19.6k square degrees.
 
@@ -29,14 +32,19 @@ galactic science. The total area in the WFD is approximately 19.6k square degree
   :width: 600
   :alt: The Wide Fast Deep regions in the survey footprint.
 
+The Wide Fast Deep regions in the survey footprint.
+
+
+WFD Visit Cadence
+=================
 
 All of the WFD area receives approximately the same number of visits per pointing
 (around 800), although the balance of visits between different filters varies
 between the low-dust and other areas.
 
 The low-dust WFD uses a *rolling cadence*, alternating high and low activity
-areas on the sky each year.  There is no rolling in year 1, to provide uniform
-all-sky coverage at DR2 for better calibration and catalog creation.
+areas on the sky each year.  There is no rolling in year one, to provide uniform
+all-sky coverage at the first full data release for better calibration and catalog creation.
 
 Visits in the WFD are typically obtained in pairs - the first and second
 visit to a pointing are separated by about 33 minutes. These pairs are obtained
@@ -58,6 +66,46 @@ into and out of the camera every two weeks. Approximately 7 days after new moon,
 the u band filter comes out of the camera and the y band filter is put in; this
 process reverses 7 days before new moon.
 
+WFD Rolling Cadence
+===================
+
+As part of the *rolling cadence*, regions of the low-dust WFD go through cycles of
+high and low cadence activity in alternating seasons. There is no rolling within
+year one, in order to provide more uniform all-sky coverage at the first full data
+release containing the whole survey footprint. When rolling commences, the low-dust
+WFD footprint is split into two sets of declination-bounded regions; these
+"declination stripes" then are set into cycles of higher/lower cadence in
+alternating seasons. After a complete high/low (or low/high) cycle, the same number of
+visits has been acquired in each region as would have been acquired if the typical
+average cadence had been followed over the same period.
+
+.. image:: ../notebooks/season_figs/baseline_v4_0_10yrs_NVisPerSeason_season_1_HEAL_SkyMap.png
+  :width: 600
+  :alt: The WFD declination bounded regions for rolling cadence.
+
+Splitting the sky with declination-bounded regions for rolling cadence.
+
+In a ten year LSST, with no rolling in year one and using two sets of declination
+bounded regions, there is potentially time for four complete cycles (high/low or
+low/high) before the end of the survey. Alternately, more seasons with the average
+cadence can be inserted into the middle years of the survey, providing more
+uniform sky coverage at intermediate data releases at year 4 and year 7, with a total
+of three cycles of rolling throughout the low-dust WFD during the survey. This
+second option has been coined "uniform rolling" and is implemented in the current
+baseline. The four-cycle rolling cadence is still under discussion; the SCOC decision
+on three versus four cycles of rolling will likely come after the start of Operations
+once the recovery of faster timescale transient discovery is better understood.
+
+.. image:: ../notebooks/season_figs/rolling_cadence_nvisits_per_season.png
+  :width: 600
+  :alt: A histogram of the number of visits per season with uniform rolling cadence.
+
+
+During an average-cadence season, a low-dust WFD pointing would typically receive on the
+order of 80 visits (800 visits total / 10 seasons). In a low-cadence season, the
+number of visits drops to on the order of 25 visits; in a high-cadence season the number
+of visits is closer to 125. In all cases, the average season length remains on the order of 180 days.
+
 
 
 .. toctree::
@@ -65,5 +113,8 @@ process reverses 7 days before new moon.
     :titlesonly:
     :glob:
 
+.. admonition:: Last Updated
+
+   Last Updated 2025/04/01
 
 ..   *

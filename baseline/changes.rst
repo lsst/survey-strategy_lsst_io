@@ -28,6 +28,32 @@ All of the updates below are (so far) pre-commissioning, pre-operations.
 
 (Note: WFD = Wide Fast Deep; DDF = Deep Drilling Field).
 
+Full metric outputs for recent simulations are available at
+`USDF MAF <https://usdf-maf.slac.stanford.edu>`_.
+
+v4.3.1
+======
+These simulations use the same strategy as 4.0, however, the start time of the survey
+simulation is updated to better match current expectations of the start of the survey.
+The simulation now starts in November of 2025 (compared to May 2025 in v4.0). This
+does result in random changes in some metrics; a series of simulations with variable
+start dates (in addition to the usual series with different weather) is also provided
+to help quantify the effect of this stochastity.
+
+Additional small differences will be noted from a correction to the template acquisition
+criteria -- instead of expiring templates after 300 days, we now (more correctly) assume
+they will expire after 365 days. This has the effect of spreading visits out more evenly
+throughout year one, and is noticeable in u and g bands within that first year.
+
+There are minor schema updates; "band" is added to align with general Rubin use of "filter"
+vs. "band" ('filter' is still in place, but may start to look like the physical filter names).
+And "scripted_id" has been dropped and the information added to the end of the "scheduler_note"
+where relevant (i.e. the DD scheduler_notes now are longer and include integers).
+
+`v4.3 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs4.3/tree/main/baseline>`_.
+
+`v4.3 metric updates <https://github.com/lsst-pst/survey_strategy/blob/main/fbs_4.3/v4.3_Update.ipynb>`_.
+
 v4.0
 ====
 This represents an official update to the baseline survey strategy.
@@ -197,3 +223,7 @@ number of visits per pointing in the WFD.
 
 `v2.0 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs2.0/tree/main/baseline>`_.
 
+
+.. admonition:: Last Updated
+
+   Last Updated 2025/04/01

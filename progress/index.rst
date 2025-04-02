@@ -26,11 +26,20 @@ more information.
 
 Early data releases are described in `RTN-011 <https://rtn-011.lsst.io>`_.
 
-Quarterly survey progress reports will presented here, once they are available.
+Please see `RTN-016 <https://rtn-016.lsst.io>`_ for more information about
+plans for survey progress monitoring.
+
+
+
+
 
 .. toctree::
     :maxdepth: 2
     :titlesonly:
     :glob:
+
+.. admonition:: Last Updated
+
+   Last Updated 2025/04/01
 
 ..   *
