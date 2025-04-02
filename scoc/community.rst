@@ -62,3 +62,8 @@ Three SCOC Task Forces were active in 2023.
 * Uniformity of data releases (`charge and contacts <https://docs.google.com/document/d/1lBctAbIqhVz3Afr8_HLwLgL7yJyXIAXoT2ra_GmBWM4/edit?usp=sharing>`_)
 * Milky Way strategy finalization (`charge and contacts <https://docs.google.com/document/d/1p3FeCGi2K_XTEQHRao_GS5Wett9L9JCENvD8qLqZ3dY/edit?usp=sharing>`_)
 * Deep Drilling Fields strategy finalization (`charge and contacts <https://docs.google.com/document/d/14_yHmpsLpM0eRuphk_EEWXiOHYsfnW0Qp35K0ZGGwqk/edit?usp=sharing>`_)
+
+
+.. admonition:: Last Updated
+
+   Last Updated 2025/02/26

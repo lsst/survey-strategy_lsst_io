@@ -223,3 +223,7 @@ number of visits per pointing in the WFD.
 
 `v2.0 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs2.0/tree/main/baseline>`_.
 
+
+.. admonition:: Last Updated
+
+   Last Updated 2025/04/01

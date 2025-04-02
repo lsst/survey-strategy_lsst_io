@@ -14,13 +14,13 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#####################
+#########################
 Deep Drilling Fields
-#####################
+#########################
 
 .. This section should provide a brief, top-level description of the page.
 
-The Deep Drilling Field program includes 5 DDF fields,
+Rubin Observatory's LSST Deep Drilling Field program includes 5 DDF fields,
 chosen to maximize multi-wavelength coverage with pre-existing surveys.
 One of the pointings, the Euclid Deep Field South (EDFS) pointing, is a larger field
 and so is split between an 'a' and 'b' pointing which share the DDF visits.
@@ -39,6 +39,9 @@ The
 `DDF Task Force <https://docs.google.com/document/d/14_yHmpsLpM0eRuphk_EEWXiOHYsfnW0Qp35K0ZGGwqk/edit?usp=sharing>`_
 is a useful contact point.
 
+Deep Drilling Field Locations
+=============================
+
 =======  =========  =========  =======  ========  ========  ========
 ..         ELAISS1    XMM_LSS    ECDFS    COSMOS    EDFS_a    EDFS_b
 =======  =========  =========  =======  ========  ========  ========
@@ -52,14 +55,14 @@ Eclip b     -43.2      -17.92   -45.44     -9.34    -66.61    -66.6
 
 
 
-Notable Updates:
-
-First Published:
-
 
 .. toctree::
     :maxdepth: 2
     :titlesonly:
     :glob:
+
+.. admonition:: Last Updated
+
+   Last Updated 2025/04/01
 
 ..   *

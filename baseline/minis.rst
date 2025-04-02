@@ -58,10 +58,14 @@ This completes the survey footprint. The SCP receives approximately 115 visits
 per pointing.
 
 
+
 .. toctree::
     :maxdepth: 2
     :titlesonly:
     :glob:
 
+.. admonition:: Last Updated
+
+   Last Updated 2024/12/19
 
 ..   *
