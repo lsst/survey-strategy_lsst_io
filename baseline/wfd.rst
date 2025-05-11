@@ -122,6 +122,6 @@ In high-actvity seasons, the total number of visits increases above the median, 
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/04/01
+   Last Updated 2025/05/11
 
 ..   *
