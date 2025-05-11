@@ -107,7 +107,7 @@ number of visits drops to on the order of 25 visits; in a high-cadence season th
 of visits is closer to 125. In all cases, the average season length remains on the order of 180 days.
 
 
-.. image:: ../notebooks/season_figs/rolling_cadence_median_nightgap.png
+.. image:: ../notebooks/season_figs/rolling_cadence_median_gap_per_season.png
   :width: 600
   :alt: A histogram of the median inter-night gap per season with uniform rolling cadence, split into
         high, low and medium activity groups.
