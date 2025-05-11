@@ -82,7 +82,7 @@ average cadence had been followed over the same period.
 .. image:: ../notebooks/season_figs/baseline_v4_0_10yrs_NVisPerSeason_season_1_HEAL_SkyMap.png
   :width: 600
   :alt: The WFD declination bounded regions for rolling cadence.
-
+        
 Splitting the sky with declination-bounded regions for rolling cadence.
 
 In a ten year LSST, with no rolling in year one and using two sets of declination
@@ -107,7 +107,14 @@ number of visits drops to on the order of 25 visits; in a high-cadence season th
 of visits is closer to 125. In all cases, the average season length remains on the order of 180 days.
 
 
+.. image:: ../notebooks/season_figs/rolling_cadence_median_nightgap.png
+  :width: 600
+  :alt: A histogram of the median inter-night gap per season with uniform rolling cadence, split into
+        high, low and medium activity groups.
 
+In low-activity seasons, the total number of visits drops and the inter-night gap increases.
+In high-actvity seasons, the total number of visits increases above the median, and the inter-night gap decreases.
+        
 .. toctree::
     :maxdepth: 2
     :titlesonly:
