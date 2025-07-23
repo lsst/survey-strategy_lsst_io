@@ -8,7 +8,7 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _SV_20250720
+.. _SV_20250720:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
@@ -21,21 +21,22 @@ SV 20250720
 .. This section should provide a brief, top-level description of the page.
 
 As of 2025-07-20, the SV survey has acquired 9998 visits, of variable quality.
+The median number of visits per pointing within the primary region of the SV survey are:
 
-.. image:: ../notebooks/sv_20250720_nvisits.png
+* u = 1
+* g = 2
+* r = 5
+* i = 6
+* z = 6
+* y = 5
+* all bandpasses = 28.
+
+.. image:: ../../notebooks/sv_20250720_nvisits.png
   :width: 600
   :alt: SV visits as of 20250720
 
-Within the primary region of the SV survey, the median number of visits per
-pointing per bandpass are:
 
-=== === === === === ===
-u    g   r   i   z   y
-=== === === === === ===
-1    2   5   6   6   5
-=== === === === === ===
-
-.. image:: ../notebooks/sv_20250720_nvisits_band.png
+.. image:: ../../notebooks/sv_20250720_nvisits_band.png
   :width: 600
   :alt: SV visits as of 20250720
 
@@ -43,7 +44,7 @@ u    g   r   i   z   y
 At this point, the SV survey has acquired approximately 20% of the visits initially predicted
 by the end of the commissioning period.
 
-.. image:: ../notebooks/cumulative_visits_20250720.png
+.. image:: ../../notebooks/cumulative_visits_20250720.png
   :width: 600
   :alt: SV visits as of 20250720
 
@@ -57,6 +58,6 @@ by the end of the commissioning period.
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/07/20
+   Last Updated 2025/07/23
 
 ..   *

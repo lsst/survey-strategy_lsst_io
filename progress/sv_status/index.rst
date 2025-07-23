@@ -37,9 +37,10 @@ The cadence within a night is roughly similar to the operations survey, with
 observations typically obtained in pairs of visits separated by 30 minutes or so,
 but the return visits to the field on subsequent nights are more frequent.
 
-.. image:: ../notebooks/SV_footprint.png
+.. image:: ../../notebooks/SV_footprint.png
   :width: 600
   :alt: The Science Validation survey footprint.
+
 
 The footprint for the SV survey consists primarily of just over 3000 square
 degrees focused along the ecliptic, reaching from within the Galactic Plane to
@@ -50,9 +51,10 @@ primarily serves as backup for when the ecliptic portion of the footprint is
 unavailable due to the moon avoidance mask or at times in the morning when the telescope
 is limited in azimuth range due to dome closure rules in effect during commissioning.
 
-.. image:: ../notebooks/sv_sim_1.0_nvisits.png
+.. image:: ../../notebooks/sv_sim_1.0_nvisits.png
   :width: 600
   :alt: The Science Validation number of visits.
+
 
 An initial survey simulation, with an estimate for the performance of the
 observatory, indicates that the SV survey should be capable of acquiring on the order
@@ -64,6 +66,8 @@ of 125 visits per pointing within the primary SV survey area.
     :maxdepth: 2
     :titlesonly:
     :glob:
+
+    sv_20250720
 
 .. admonition:: Last Updated
 
