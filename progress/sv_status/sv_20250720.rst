@@ -8,31 +8,44 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Progress-Index:
+.. _SV_20250720
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-###############
-Survey Progress
-###############
+###################
+SV 20250720
+###################
 
 .. This section should provide a brief, top-level description of the page.
 
-The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST)
-will begin late 2025. See `Timeline Updates <https://dmtn-232.lsst.io>`_ for
-more information.
+As of 2025-07-20, the SV survey has acquired 9998 visits, of variable quality.
 
-Early data releases are described in `RTN-011 <https://rtn-011.lsst.io>`_.
+.. image:: ../notebooks/sv_20250720_nvisits.png
+  :width: 600
+  :alt: SV visits as of 20250720
 
-`RTN-016 <https://rtn-016.lsst.io>`_ describes general plans for survey monitoring.
+Within the primary region of the SV survey, the median number of visits per
+pointing per bandpass are:
 
-Current status: commissioning has started executing the science validation survey
-described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6.
+=== === === === === ===
+u    g   r   i   z   y
+=== === === === === ===
+1    2   5   6   6   5
+=== === === === === ===
 
-Status of Science Validation Survey
+.. image:: ../notebooks/sv_20250720_nvisits_band.png
+  :width: 600
+  :alt: SV visits as of 20250720
 
+
+At this point, the SV survey has acquired approximately 20% of the visits initially predicted
+by the end of the commissioning period.
+
+.. image:: ../notebooks/cumulative_visits_20250720.png
+  :width: 600
+  :alt: SV visits as of 20250720
 
 
 
@@ -44,6 +57,6 @@ Status of Science Validation Survey
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/04/01
+   Last Updated 2025/07/20
 
 ..   *
