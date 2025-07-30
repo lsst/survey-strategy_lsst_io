@@ -28,7 +28,7 @@ The WFD sky includes low-dust extinction area, useful for extragalactic science,
 as higher stellar density areas (with higher dust extinction), useful for
 galactic science. The total area in the WFD is approximately 19.6k square degrees.
 
-.. image:: ../notebooks/WFD_footprint.png
+.. image:: ../figures/WFD_footprint.png
   :width: 600
   :alt: The Wide Fast Deep regions in the survey footprint.
 
@@ -79,7 +79,7 @@ alternating seasons. After a complete high/low (or low/high) cycle, the same num
 visits has been acquired in each region as would have been acquired if the typical
 average cadence had been followed over the same period.
 
-.. image:: ../notebooks/season_figs/baseline_v4_0_10yrs_NVisPerSeason_season_1_HEAL_SkyMap.png
+.. image:: ../figures/season_figs/baseline_v5_0_0_10yrs_NVisPerSeason_season_1_HEAL_SkyMap.png
   :width: 600
   :alt: The WFD declination bounded regions for rolling cadence.
         
@@ -96,7 +96,7 @@ baseline. The four-cycle rolling cadence is still under discussion; the SCOC dec
 on three versus four cycles of rolling will likely come after the start of Operations
 once the recovery of faster timescale transient discovery is better understood.
 
-.. image:: ../notebooks/season_figs/rolling_cadence_nvisits_per_season.png
+.. image:: ../figures/season_figs/rolling_cadence_nvisits_per_season.png
   :width: 600
   :alt: A histogram of the number of visits per season with uniform rolling cadence.
 
@@ -107,7 +107,7 @@ number of visits drops to on the order of 25 visits; in a high-cadence season th
 of visits is closer to 125. In all cases, the average season length remains on the order of 180 days.
 
 
-.. image:: ../notebooks/season_figs/rolling_cadence_median_gap_per_season.png
+.. image:: ../figures/season_figs/rolling_cadence_median_gap_per_season.png
   :width: 600
   :alt: A histogram of the median inter-night gap per season with uniform rolling cadence, split into
         high, low and medium activity groups.
@@ -122,6 +122,6 @@ In high-actvity seasons, the total number of visits increases above the median, 
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/05/11
+   Last Updated 2025/07/28
 
 ..   *

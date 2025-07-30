@@ -24,7 +24,7 @@ The LSST mini-surveys extend the survey footprint to additional areas of sky whi
 are important for the core science goals, but do not require coverage at standard WFD
 levels.
 
-.. image:: ../notebooks/Minisurvey_footprint.png
+.. image:: ../figures/Minisurvey_footprint.png
   :width: 600
   :alt: The minisurvey regions in the survey footprint, including the North Ecliptic Spur, the dusty plane, and the south celestial pole. More details on these regions are below.
 
@@ -66,6 +66,6 @@ per pointing.
 
 .. admonition:: Last Updated
 
-   Last Updated 2024/12/19
+   Last Updated 2025/07/28
 
 ..   *

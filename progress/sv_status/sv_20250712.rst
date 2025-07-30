@@ -1,33 +1,33 @@
-.. _SV_20250720:
+.. _SV_20250712:
 
  
 ############
-SV 20250720
+SV 20250712
 ############
 
  
-As of 20250720, the SV survey has acquired a total of 9998, of variable quality. 
+As of 20250712, the SV survey has acquired a total of 6803, of variable quality. 
 The median numbers of visits per pointing within the primary wide SV survey area are: 
 
 =====================  ===  ===  ===  ===  ===  ===  =====
 ..                       u    g    r    i    z    y    all
 =====================  ===  ===  ===  ===  ===  ===  =====
-(20250720, 'Nvisits')    1    2    5    6    6    5     28
+(20250712, 'Nvisits')    0    0    2    4    6    5     19
 =====================  ===  ===  ===  ===  ===  ===  =====
 
-.. image:: ../../figures/sv_20250720/sv_20250720_nvisits.png 
+.. image:: ../../figures/sv_20250712/sv_20250712_nvisits.png 
   :width: 600 
 
-.. image:: ../../figures/sv_20250720/sv_20250720_nvisits_band.png 
+.. image:: ../../figures/sv_20250712/sv_20250712_nvisits_band.png 
   :width: 600 
 
-A simulation database containing acquired visits up to 20250720 and extended to the end of the SV survey: `sv_20250720.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_progress_databases/sv_20250720/sv_20250720.db>`_. 
+A simulation database containing acquired visits up to 20250712 and extended to the end of the SV survey: `sv_20250712.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_progress_databases/sv_20250712/sv_20250712.db>`_. 
 Note that these databases contain preliminary visit metadata; not all visits will successfully pass through processing into data releases, and metadata may change with further processing or information. The system is still under commissioning. 
 
-The SV survey has now acquired approximately 20% of its expected visits. 
+The SV survey has now acquired approximately 14% of its expected visits. 
 
  
-.. image:: ../../figures/sv_20250720/cumulative_visits_20250720.png 
+.. image:: ../../figures/sv_20250712/cumulative_visits_20250712.png 
   :width: 600 
 
  

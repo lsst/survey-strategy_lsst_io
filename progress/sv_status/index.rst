@@ -15,13 +15,15 @@
 .. A warning will alert you of identical labels during the linkcheck process.
 
 ###################################
-Status of Science Validation Survey
+Science Validation Survey Overview
 ###################################
 
 .. This section should provide a brief, top-level description of the page.
 
 The design of the Science Validation (SV) survey is described in
 `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6.
+The reference design simulation for the SV survey is
+`sv_sim_1.0 <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_sim_1.0.db>`_.
 
 The SV survey is intended to replicate the operations LSST as closely
 as possible, while still allowing significant tests of alert generation,
@@ -37,7 +39,7 @@ The cadence within a night is roughly similar to the operations survey, with
 observations typically obtained in pairs of visits separated by 30 minutes or so,
 but the return visits to the field on subsequent nights are more frequent.
 
-.. image:: ../../notebooks/SV_footprint.png
+.. image:: ../../figures/SV_footprint.png
   :width: 600
   :alt: The Science Validation survey footprint.
 
@@ -51,12 +53,12 @@ primarily serves as backup for when the ecliptic portion of the footprint is
 unavailable due to the moon avoidance mask or at times in the morning when the telescope
 is limited in azimuth range due to dome closure rules in effect during commissioning.
 
-.. image:: ../../notebooks/sv_sim_1.0_nvisits.png
+.. image:: ../../figures/sv_sim_1.0_nvisits.png
   :width: 600
   :alt: The Science Validation number of visits.
 
 
-An initial survey simulation, with an estimate for the performance of the
+An initial survey simulation (sv_sim_1.0), with an estimate for the performance of the
 observatory, indicates that the SV survey should be capable of acquiring on the order
 of 125 visits per pointing within the primary SV survey area.
 
@@ -67,10 +69,19 @@ of 125 visits per pointing within the primary SV survey area.
     :titlesonly:
     :glob:
 
+    sv_20250621
+    sv_20250628
+    sv_20250705
+    sv_20250712
+    sv_20250714
     sv_20250720
+    sv_20250723
+    sv_20250724
+    sv_20250729
+
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/07/20
+   Last Updated 2025/07/28
 
 ..   *

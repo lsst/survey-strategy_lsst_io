@@ -20,17 +20,21 @@ Survey Progress
 
 .. This section should provide a brief, top-level description of the page.
 
+Current status: commissioning has started executing the Science Validation (SV) survey
+described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6.
+Plans for early data releases, including the SV survey data, are described in
+`RTN-011 <https://rtn-011.lsst.io>`_.
+
 The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST)
 will begin late 2025. See `Timeline Updates <https://dmtn-232.lsst.io>`_ for
 more information.
 
-Early data releases are described in `RTN-011 <https://rtn-011.lsst.io>`_.
 
-`RTN-016 <https://rtn-016.lsst.io>`_ describes general plans for survey monitoring.
+`Nightly SV survey monitoring <https://s3df.slac.stanford.edu/data/rubin/sim-data/schedview/reports/>`_
+(updated daily)
 
-Current status: commissioning has started executing the science validation survey
-described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6.
-
+The SV survey progress pages below are updated weekly and
+contain forecast information, as well as current status.
 
 .. toctree::
     :maxdepth: 2
@@ -41,6 +45,6 @@ described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6.
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/07/23
+   Last Updated 2025/07/28
 
 ..   *
