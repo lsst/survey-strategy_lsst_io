@@ -26,15 +26,13 @@ One of the pointings, the Euclid Deep Field South (EDFS) pointing, is a larger f
 and so is split between an 'a' and 'b' pointing which share the DDF visits.
 
 The DDFs use a total of about 6.5% of the total survey time.
-Each DDF receives on the order of 23,000 visits, except COSMOS which receives
+Each DDF receives on the order of 20,000 visits, except COSMOS which receives
 approximately double that. The COSMOS
 field has been selected to receive additional coverage, in order to
 reach 10-year DDF depth within the first 3 years of the survey as a pathfinder
 for Data Management processing and science opportunities.
 
-The cadence for DDF visits is still under development, but will retain
-sequences of 10-20 visits per filter within a night, offering the opportunity
-for fainter per-night measurements as well as sub-minute time sampling.
+The cadence for DDF visits is still under development.
 The
 `DDF Task Force <https://docs.google.com/document/d/14_yHmpsLpM0eRuphk_EEWXiOHYsfnW0Qp35K0ZGGwqk/edit?usp=sharing>`_
 is a useful contact point.
@@ -63,6 +61,6 @@ Eclip b     -43.2      -17.92   -45.44     -9.34    -66.61    -66.6
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/04/01
+   Last Updated 2025/07/28
 
 ..   *

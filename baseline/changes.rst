@@ -31,6 +31,27 @@ All of the updates below are (so far) pre-commissioning, pre-operations.
 Full metric outputs for recent simulations are available at
 `USDF MAF <https://usdf-maf.slac.stanford.edu>`_.
 
+v5.0.0
+======
+These simulations incorporate additional information from commissioning.
+In particular, visits are now single-snaps of 1x30s in grizy, with 1x38s visits
+in u band. The readout time is increased to 3.07s, although this will generally
+be absorbed into the expected slew time. The slew performance of the observatory
+model has been reduced in the v5 simulations, as the slew performance of the
+observatory at the start of commissioning is yet to be fully determined. By using
+a conservative estimate for the slew performance, we can hold some contingency
+in case the performance does not improve quite as much as we expect it to.
+
+The DDF strategy is significantly changed in these simulations. The tension
+between deep nightly coadds, frequent time sampling, and a limited amount of
+total visits available has led to a compromise "ocean" strategy. In the
+ocean DDF strategy, DDF coverage is split into "shallow" and "deep" seasons.
+In the shallow seasons, sequences are quite short and the overall depth is much
+reduced from previous DDF sequences (although it is still deeper than WFD depths
+in a single night). In the deep seasons, sequences are significantly longer and
+more frequent than in previous simulations. Most of the total DDF coverage occurs
+during the deep season for a DDF. Every DDF has at least one deep season.
+
 v4.3.1
 ======
 These simulations use the same strategy as 4.0, however, the start time of the survey
@@ -226,4 +247,4 @@ number of visits per pointing in the WFD.
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/04/01
+   Last Updated 2025/07/28

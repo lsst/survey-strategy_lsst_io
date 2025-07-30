@@ -1,33 +1,33 @@
-.. _SV_20250720:
+.. _SV_20250724:
 
  
 ############
-SV 20250720
+SV 20250724
 ############
 
  
-As of 20250720, the SV survey has acquired a total of 9998, of variable quality. 
+As of 20250724, the SV survey has acquired a total of 11961, of variable quality. 
 The median numbers of visits per pointing within the primary wide SV survey area are: 
 
 =====================  ===  ===  ===  ===  ===  ===  =====
 ..                       u    g    r    i    z    y    all
 =====================  ===  ===  ===  ===  ===  ===  =====
-(20250720, 'Nvisits')    1    2    5    6    6    5     28
+(20250724, 'Nvisits')    2    3    7    7    7    5     34
 =====================  ===  ===  ===  ===  ===  ===  =====
 
-.. image:: ../../figures/sv_20250720/sv_20250720_nvisits.png 
+.. image:: ../../figures/sv_20250724/sv_20250724_nvisits.png 
   :width: 600 
 
-.. image:: ../../figures/sv_20250720/sv_20250720_nvisits_band.png 
+.. image:: ../../figures/sv_20250724/sv_20250724_nvisits_band.png 
   :width: 600 
 
-A simulation database containing acquired visits up to 20250720 and extended to the end of the SV survey: `sv_20250720.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_progress_databases/sv_20250720/sv_20250720.db>`_. 
+A simulation database containing acquired visits up to 20250724 and extended to the end of the SV survey: `sv_20250724.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_progress_databases/sv_20250724/sv_20250724.db>`_. 
 Note that these databases contain preliminary visit metadata; not all visits will successfully pass through processing into data releases, and metadata may change with further processing or information. The system is still under commissioning. 
 
-The SV survey has now acquired approximately 20% of its expected visits. 
+The SV survey has now acquired approximately 25% of its expected visits. 
 
  
-.. image:: ../../figures/sv_20250720/cumulative_visits_20250720.png 
+.. image:: ../../figures/sv_20250724/cumulative_visits_20250724.png 
   :width: 600 
 
  

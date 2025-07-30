@@ -32,7 +32,7 @@ This microsurvey extends the discovery space for Solar System Objects to the reg
 interior to the Earth, with the addition of observations at very low solar elongation.
 
 
-.. image:: ../notebooks/metric_data/baseline_v4_0_10yrs_NVisits_near_sun_twilight_HEAL_SkyMap.png
+.. image:: ../figures/baseline_v5_0_0_10yrs_NVisits_near_sun_twilight_HEAL_SkyMap.png
   :width: 600
   :alt: The footprint of the near-sun twilight microsurvey, following a swath around the ecliptic of about 40 degrees.
 
@@ -49,7 +49,7 @@ elongations between 35 and 47 degrees. Less than 1% of the standard survey visit
 at solar elongations less than 68 degrees. The near-sun twilight observations occur at
 airmasses of 1.8 and greater.
 
-.. image:: ../notebooks/baseline_v4.0_10yrs_solar_elongation_twi.png
+.. image:: ../figures/baseline_v5.0.0_10yrs_solar_elongation_twi.png
   :width: 600
   :alt: The distribution of solar elongations for the near-sun twilight microsurvey, compared to the remainder of the survey. The near-sun twilight microsurvey solar elongations range from 35 to 47 degrees while the remainder of the survey's visits peak at around 130 degrees solar elongation and rarely fall below 60 degrees.
 
@@ -62,7 +62,7 @@ airmasses of 1.8 and greater.
 
 .. admonition:: Last Updated
 
-   Last Updated 2024/12/19
+   Last Updated 2025/07/28
 
 
 ..   *

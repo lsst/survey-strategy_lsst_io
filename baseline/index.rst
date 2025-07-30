@@ -20,7 +20,7 @@ LSST Baseline Strategy
 
 .. This section should provide a brief, top-level description of the page.
 
-.. image:: ../notebooks/baseline_v4.0_10yrs_nvisits.png
+.. image:: ../figures/baseline_v5.0.0_10yrs_nvisits.png
   :width: 700
   :alt: The baseline survey simulation sky coverage.
 
@@ -39,13 +39,11 @@ The Rubin Observatory's current baseline survey (v4.0) for LSST consists of :
 
 
 The current baseline survey strategy is illustrated in the
-`baseline_v4.0_10yrs <https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs4.0/baseline/baseline_v4.0_10yrs.db>`_
+`baseline_v5.0.0_10yrs <https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs5.0/baseline/baseline_v5.0.0_10yrs.db>`_
 simulation, although this (and any) simulation is limited in its representative
 status due to the fact that is a specific implementation under specific weather
-and observatory conditions.
-
-An in-progress update to the baseline survey can be found in
-`baseline_v4.3.1_10yrs <https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs4.3/baseline/baseline_v4.3.1_10yrs.db>`_  (see the :doc:`Changes <changes>` section).
+and observatory conditions. Changes to the survey simulation over time can be found
+in the :doc:`Changes <changes>` section.
 
 
 .. toctree::
@@ -67,6 +65,6 @@ An in-progress update to the baseline survey can be found in
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/04/01
+   Last Updated 2025/07/28
 
 ..   *
