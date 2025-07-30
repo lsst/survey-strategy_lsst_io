@@ -6,7 +6,7 @@ SV 20250621
 ############
 
  
-As of 20250621, the SV survey has acquired a total of 408, of variable quality. 
+As of 20250621, the SV survey has acquired a total of 408 visits, of variable quality. 
 The median numbers of visits per pointing within the primary wide SV survey area are: 
 
 =====================  ===  ===  ===  ===  ===  ===  =====
