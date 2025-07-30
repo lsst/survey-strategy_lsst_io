@@ -35,14 +35,18 @@ However we can also look at how the prediction for the total number of
 visits at the end of survey has changed with each incremental simulation.
 Looking at the predictions for the end of survey in this way, we can see
 that early predictions for the total number of visits were quite high;
-more recent predictions have fallen in comparison. This primarily
-reflects the effects of more nights where the observatory has been
-closed due to weather; the dome has remained entirely closed for
-five nights within the last week, with another partial three nights
-in the preceding weeks. It also reflects time spent on other commissioning
-activities than the SV survey; visits were acquired for the small field
-science and for AOS tests, in a shift away from an early unexpectedly strong
-emphasis on SV visits.
+more recent predictions have fallen in comparison. Remember that the
+current survey simulations include updated assumptions about the observatory;
+the reference simulation,
+`sv_sim_1.0.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_sim_1.0.db>`_,
+was created based on assumptions about performance coming from best estimates
+and experience from DP1. The newer simulations have updated slew times, downtime
+assumptions, etc. Thus early simulations estimated more visits total than
+the reference simulation; recent bad weather has affected the rate of
+visit acquisition and so now the predicted number of visits at the end of
+the SV survey has fallen accordingly. The weather has been particularly
+unlucky recently, with the dome entirely closed for five nights within
+the last week and for parts of three nights in the preceding weeks.
 
 
 .. image:: ../../figures/sv_nvis_prediction_20250729.png
