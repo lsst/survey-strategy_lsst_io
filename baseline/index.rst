@@ -27,7 +27,7 @@ LSST Baseline Strategy
 
 |
 
-The Rubin Observatory's current baseline survey (v4.0) for LSST consists of :
+The Rubin Observatory's current baseline survey (v5.0.0) for LSST consists of :
 
 * :doc:`The "Wide Fast Deep" (WFD) <wfd>`. This is the bulk of the survey, and is designed to achieve the core science goals of the Legacy Survey of Space and Time (LSST). The WFD uses slightly more than 80% of the total survey time.
 
