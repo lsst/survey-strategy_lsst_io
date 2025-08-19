@@ -24,6 +24,7 @@ The design of the Science Validation (SV) survey is described in
 `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6.
 The reference design simulation for the SV survey is
 `sv_sim_1.0 <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_sim_1.0.db>`_.
+A significant update to the SV configuration has been announced as of :ref:`2025-08-18 <SV_20250818>`.
 
 The SV survey is intended to replicate the operations LSST as closely
 as possible, while still allowing significant tests of alert generation,
@@ -39,21 +40,33 @@ The cadence within a night is roughly similar to the operations survey, with
 observations typically obtained in pairs of visits separated by 30 minutes or so,
 but the return visits to the field on subsequent nights are more frequent.
 
-.. image:: ../../figures/SV_footprint.png
+.. figure:: ../../figures/SV_footprint.png
   :width: 600
   :alt: The Science Validation survey footprint.
 
+  Original SV survey footprint.
 
-The footprint for the SV survey consists primarily of just over 3000 square
+.. figure:: ../../figures/SV_v2_footprint.png
+  :width: 600
+  :alt: The Updated Science Validation survey footprint.
+
+  Updated v2 SV survey footprint.
+
+
+The original footprint for the SV survey consists primarily of just over 3000 square
 degrees focused along the ecliptic, reaching from within the Galactic Plane to
-within the North Ecliptic Spur portion of the LSST footprint. Additional area
+within the North Ecliptic Spur portion of the LSST footprint. The v2 reduced area
+version of the SV survey consists of approximately 750 sq degreess, within
+this same ecliptic area.
+
+Additional area
 within the LSST low-dust WFD footprint will be covered on a best-effort basis
 in order to obtain images which can be used for template building; this area
 primarily serves as backup for when the ecliptic portion of the footprint is
 unavailable due to the moon avoidance mask or at times in the morning when the telescope
 is limited in azimuth range due to dome closure rules in effect during commissioning.
 
-.. image:: ../../figures/sv_sim_1.0_nvisits.png
+.. figure:: ../../figures/sv_sim_1.0_nvisits.png
   :width: 600
   :alt: The Science Validation number of visits.
 
@@ -78,6 +91,7 @@ of 125 visits per pointing within the primary SV survey area.
     sv_20250723
     sv_20250724
     sv_20250729
+    sv_20250818
 
 
 .. admonition:: Last Updated
