@@ -52,6 +52,11 @@ in a single night). In the deep seasons, sequences are significantly longer and
 more frequent than in previous simulations. Most of the total DDF coverage occurs
 during the deep season for a DDF. Every DDF has at least one deep season.
 
+`v5.0 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs5.0/tree/main/baseline>`_.
+
+`v5.0 metric updates <https://github.com/lsst-pst/survey_strategy/blob/main/fbs_5.0/v5.0_Update.ipynb>`_.
+
+
 v4.3.1
 ======
 These simulations use the same strategy as 4.0, however, the start time of the survey

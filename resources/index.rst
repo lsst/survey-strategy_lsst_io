@@ -33,13 +33,28 @@ Please note that both of these software packages can be easily installed via
 conda or pip. For most use-cases, additional data must also be downloaded, following instructions
 at https://rubin-sim.lsst.io/data-download.html#downloading-necessary-data.
 
+Running rubin_sim in the RSP
+----------------------------
+Both 'rubin_sim' and 'rubin_scheduler' are available within the RSP environments.
+The associated data however is not automatically linked in your environment, although
+it is available and can be easily used by setting the environment variable
+$RUBIN_SIM_DATA_DIR appropriately.
+
+.. code::
+
+    # on the USDF RSP
+    os.environ["RUBIN_SIM_DATA_DIR"] = "/sdf/data/rubin/shared/rubin_sim_data"
+    # on the cloud RSPs
+    os.environ["RUBIN_SIM_DATA_DIR"] = "/rubin/rubin_sim_data"
+
+
 
 .. _Resources-Simulations:
 
 Simulations
 ===========
 
-The current official baseline simulations (v4.0) are available for download at https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs4.0/
+The current official baseline simulations (v5.0) are available for download at https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs5.0/
 
 Previous sets of simulations are also available for download, under similar URLs at
 https://s3df.slac.stanford.edu/data/rubin/sim-data/

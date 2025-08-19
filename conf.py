@@ -5,3 +5,5 @@ from documenteer.conf.guide import *
 exclude_patterns.extend([
     r"templates",
 ])
+
+jupyter_execute_notebooks = "off"
