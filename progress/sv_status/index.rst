@@ -93,6 +93,7 @@ of 125 visits per pointing within the primary SV survey area.
     sv_20250729
     sv_20250818
     sv_20250903
+    sv_20250920
 
 
 .. admonition:: Last Updated
