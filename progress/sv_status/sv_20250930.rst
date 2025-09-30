@@ -34,11 +34,29 @@ and 13240 for the primary wide SV area.
 The bulk of these visits were acquired between 20250417 and 20250724,
 due to a combination of weather and necessary engineering tests to improve delivered image quality.
 
-The small field survey science visits can be identified by XXX
 
 .. figure:: ../../figures/lsstcam_20250930/lsstcam_scivisits_timing.png
   :width: 650
   :alt: A timeline of science visit acquisition, per band.
+
+Visit Database
+==============
+
+A database compiling the visits from the small field survey as well as the SV observations is available at
+`lsstcam_20250930 <https://s3df.slac.stanford.edu/data/rubin/sim-data/sv/sv_progress_databases/lsstcam_20250930/lsstcam_20250930.db>`_.
+Information contained in the database is based on entries in the `Consolidated Database <https://sdm-schemas.lsst.io/cdb_lsstcam.html>`_, including per-visit summary values from summit ``quicklook`` processing.
+Additional columns have been added as part of post-processing from the `rubin_nights <https://github.com/lsst-sims/rubin_nights>`_ package.
+The database follows the current `opsim schema <https://rubin-scheduler.lsst.io/fbs-output-schema.html>`_, but adds the columns from the ConsDb and rubin_nights, as described in the links above.
+Future updates are anticipated, which may include additional data values added where some entries are NaN (as some of the ConsDb entries are backfilled) or additional information pulling from per-detector values in the ConsDb.
+
+The small field survey science visits can be identified by ``field_survey_science`` in the ``observation_reason`` in the database.
+Visits acquired as part of DDF sequences can be identified by ``ddf`` as part of the ``observation_reason``.
+In general, the ``observation_reason`` identifies the source of the visit within the FBS (which ``Survey`` object requested the visit), while the ``target_name`` identifies the region on the sky for the visit.
+For the small field survey visits, the ``target_name`` was simply configured as the particular field target.
+For SV visits, the ``target_name`` is configured as expected for the LSST, where DDF (or other particular targets) can
+overlap other general wide areas of the survey such as the ``low_dust`` footprint area, so ``target_name`` will identify
+both the DDF name as well as the underlying footprint areas.
+
 
 Small Field Survey Visits
 =========================
@@ -105,4 +123,13 @@ Rubin_SV_225_-40       2052                    1.36                0.25         
 SV Survey Visits
 ================
 
-The SV survey includes visits from 20250620 to 20250921,
+The SV survey includes visits from 20250620 to 20250921, with a total of 14453 visits acquired (after excluding known bad visits).
+Of these, 13240 were acquired for the wide area, while 908 were acquired for DDF visits.
+This is approximately 6% visits for DDF, which is consistent with expectations for the operations LSST.
+There were 194 visits acquired for Target of Opportunity (ToO) testing purposes, or approximately 1.3% of the total SV visits.
+The remaining visits were located in the "backup" area configured to provide future-template building targets when the primary area or DDFs were unavailable due to requirements to avoid the moon or azimuth constraints near dawn.
+
+The initial SV wide area was approximately 3000 square degrees; this was reduced to 750 square degrees approximately halfway through the SV survey period (see :ref:`2025-08-18 <SV_20250818>` for more information).
+This was further reduced to approximately 230 square degrees during the last week or so of the SV period, to better enable difference image tests (see :ref:`2025-09-20 <SV_20250920>` for more information).
+The median numbers of visits and coadded depths reported below are based medians within each of these subsets of SV area.
+
