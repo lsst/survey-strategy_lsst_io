@@ -1,0 +1,108 @@
+.. _SV_20250930:
+
+##########################################
+Summary 20250930
+##########################################
+
+.. figure:: ../../figures/lsstcam_20250930/lsstcam_nvisits.png
+  :width: 650
+  :alt: A skymap of science visits acquired with LSSTCam.
+
+The initial LSSTCam commissioning period has come to a close after the last night
+of SV data acquisition on 20250921.
+
+Science images with LSSTCam began 20250417, at first acquiring small field survey visits
+dithered over small areas around a central boresight.
+These visits were generally acquired in sequences of at least 10 visits per bandpass,
+cycling through available bandpasses, in a manner similar to acquiring small field survey science visits
+during ComCam commissioning (which resulted in images available as part of DP1).
+
+The Science Validation (SV) survey began on 20250620, acquiring visits in a manner consistent with the
+planned operations survey for the LSST, although with a much more limited area to facilitate gaining
+depth within the SV timeline.
+The SV survey consisted of a wide area following the ecliptic plane from dense regions of the Galactic Bulge
+through low-dust regions within the planned LSST Wide Fast Deep (WFD) footprint and included
+four of the planned LSST Deep Drilling Fields (DDFs). A secondary area within the low-dust WFD was included
+to provide targets when the primary or DDF fields were not available, with the intention of providing images
+to help boost early template generation in these higher-declination areas.
+
+During this commissioning period, a total of 21647 science visits were acquired.
+This count is after excluding known bad visits (as of 20250930), but includes visits with a
+wide range of data quality, due to both cloud extinction and/or delivered IQ or engineering
+issues. Of these, 7194 were obtained in small field survey science mode, 908 specifically for DDFs,
+and 13240 for the primary wide SV area.
+The bulk of these visits were acquired between 20250417 and 20250724,
+due to a combination of weather and necessary engineering tests to improve delivered image quality.
+
+The small field survey science visits can be identified by XXX
+
+.. figure:: ../../figures/lsstcam_20250930/lsstcam_scivisits_timing.png
+  :width: 650
+  :alt: A timeline of science visit acquisition, per band.
+
+Small Field Survey Visits
+=========================
+
+The small field survey visits, including the images which contributed toward Rubin First Look, covered the following targets:
+
+================  ===  ===  ===  ===  ===  ===  =====
+target_name         u    g    r    i    z    y    all
+================  ===  ===  ===  ===  ===  ===  =====
+Carina             22   16   23   63  ---  ---    124
+Rubin_SV_280_-48   30   30   29   30   29  ---    148
+ELAIS_S1           11   30   30   30   35   30    166
+Rubin_SV_320_-15  ---   29   17  105   52   70    273
+New_Horizons       36   49   70  108   74   23    360
+Rubin_SV_216_-17  ---   64   95  227  ---  ---    386
+Rubin_SV_212_-7   ---  139  236  123  ---  ---    498
+Prawn             196  164  149   93   30  ---    632
+COSMOS            100   82  166  139  111   66    664
+Trifid-Lagoon     235  196  122  115  ---  ---    668
+M49               261  280  378  254  ---  ---   1173
+Rubin_SV_225_-40  312  568  441  387  240  104   2052
+================  ===  ===  ===  ===  ===  ===  =====
+
+These images were generally acquired in sequences which cycled through each available bandpass, although with a variety of
+sequence lengths and dither patterns. However, because these images were acquired in these sequences where the atmospheric
+seeing contributions were relatively consistent during the sequence (on average), the image quality
+distribution is generally better redder bands than bluer bands. This effect also shows up in DDF visits in the SV survey,
+but for wide area visits it is muted as visits in different bandpasses sample different atmospheric conditions and the
+Feature Based Scheduler (FBS) chooses which bandpass to use in part based on the current seeing conditions.
+
+.. figure:: ../../figures/lsstcam_20250930/smallfield_fwhm.png
+  :width: 650
+  :alt: Small Field Survey delivered seeing
+
+The table below shows the median FWHM for the visits for each small field survey target. These are the
+median values of the median value for each visit, so do not capture any potential issues with FWHM variations
+across the field of view. It also includes an estimate of the mean cloud extinction in the images. These
+are estimates based on the measured zeropoints for the images, compared to the expected zeropoint for an
+image in that bandpass at that airmass. A potential issue here is that visits with very heavy cloud
+extinction (or other problem with the quicklook image processing occuring immediately after image acquisition)
+may not succeed in measuring a zeropoint for the image at all, and thus no estimate for the
+cloud extinction will be possible either. Timespan indicates the number of nights between the first and last
+visit for the field.
+
+================  =========  ======================  ==================  =================
+target_name         nvisits    median fwhm (arcsec)    mean cloud (mag)    timespan (days)
+================  =========  ======================  ==================  =================
+Carina                  124                  ---                 ---                     4
+Rubin_SV_280_-48        148                    1.52                0.08                  1
+ELAIS_S1                166                    1.38                0.44                 17
+Rubin_SV_320_-15        273                    1.22                0.03                  6
+New_Horizons            360                    1.05                0.2                  62
+Rubin_SV_216_-17        386                    1.29                0.01                  8
+Rubin_SV_212_-7         498                    1.21                0.05                  7
+Prawn                   632                    1.37                0.07                 79
+COSMOS                  664                    1.22                0.28                 15
+Trifid-Lagoon           668                    1.14                0.06                 10
+M49                    1173                    1.29                0.08                 13
+Rubin_SV_225_-40       2052                    1.36                0.25                 97
+================  =========  ======================  ==================  =================
+
+
+
+SV Survey Visits
+================
+
+The SV survey includes visits from 20250620 to 20250921,
