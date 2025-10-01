@@ -52,7 +52,6 @@ A database compiling the visits from the small field survey as well as the SV ob
 Information contained in the database is based on entries in the `Consolidated Database <https://sdm-schemas.lsst.io/cdb_lsstcam.html>`_, including per-visit summary values from summit ``quicklook`` processing.
 Additional columns have been added as part of post-processing from the `rubin_nights <https://github.com/lsst-sims/rubin_nights>`_ package.
 The database follows the current `opsim schema <https://rubin-scheduler.lsst.io/fbs-output-schema.html>`_, but adds the columns from the ConsDb and rubin_nights, as described in the links above.
-Future updates are anticipated, which may include additional data values added where some entries are NaN (as some of the ConsDb entries are backfilled) or additional information pulling from per-detector values in the ConsDb.
 
 The small field survey science visits can be identified by ``field_survey_science`` in the ``observation_reason`` in the database
 (and vice versa, SV visits can be identified by excluding ``field_survey_science``).
@@ -62,6 +61,18 @@ For the small field survey visits, the ``target_name`` was simply configured as 
 For SV visits, the ``target_name`` is configured as expected for the LSST, where DDF (or other particular targets) can
 overlap other general wide areas of the survey such as the ``low_dust`` footprint area, so ``target_name`` will identify
 both the DDF name as well as the underlying footprint areas.
+
+Please note that some columns in this visit database contain NaNs, where the summit quicklook processing
+did not have provide a useful value.
+This can happen if processing was not fully successful on a particular visit, which could have many causes
+ranging from missing calibration data (particularly near the start of commissioning), problems with the image
+(such as PSF problems), excessive cloud extinction, issues with crowding, or computing resource issues.
+Many of these problems will be resolved with later processing, including pipeline updates which are being developed
+and tested in DRP commissioning.
+Future updates are anticipated.
+Running MAF metrics that use these NaN columns can be problematic at this time however.
+Dropping the visits with NaN entries in the necessary columns avoids the propagation of these bad values,
+and is likely the best answer at present - this can be done by adding a constraint such as ``fiveSigmaDepth is not NULL``.
 
 
 Small Field Survey Visits
@@ -89,7 +100,7 @@ Rubin\_SV\_225\_-40  312  568  441  387  240  104   2052
 These images were generally acquired in sequences which cycled through each available bandpass, although with a variety of
 sequence lengths and dither patterns. However, because these images were acquired in these sequences where the atmospheric
 seeing contributions were relatively consistent during the sequence (on average), the image quality
-distribution is generally better redder bands than bluer bands. This effect also shows up in DDF visits in the SV survey,
+distribution is generally better in redder bands than in bluer bands. This effect also shows up in DDF visits in the SV survey,
 but for wide area visits it is muted as visits in different bandpasses sample different atmospheric conditions and the
 Feature Based Scheduler (FBS) chooses which bandpass to use in part based on the current seeing conditions.
 
@@ -216,7 +227,7 @@ Initially, the dithers were quite small and were not dithered within a night.
 Scattered light proved to be a problem for these fields, and the lack of dithers within a night became
 a problem in terms of building template images.
 In later observations, dithers within a night (both translational and rotational) were adopted; dithers from night to night continued.
-The minimum dither useful for the DDFs at this time seems to be on the order of 0.2 degrees (max radius; the range is about 0.4 deg). This dither will need to be continued within the night as well as between nights.
+The optimal DDF dither pattern for LSST is the subject of ongoing investigations, but will likely involve dithers within the night as well as between nights.
 
 =============  ===  ===  ===  ===  ===  ===  =====
 ..               u    g    r    i    z    y    all
@@ -263,17 +274,27 @@ SV Combined
 
   Cumulative visit acquisition over time for the SV survey.
 
-The amount of area observed with the equivalent of 1 year WFD number of visits in each of giz band was around 300 sq degrees.
-While not much area was observed with u band, over 1000 sq degrees did receive at least the equivalent of 6 months of LSST visits.
-The rate of visit acquisition will be investigated further in a separate post.
-
 
 .. image:: ../../figures/lsstcam_20250930/sv_area_per_band.png
-  :width: 45 %
+  :width: 47 %
   :align: left
   :alt: Area covered with a given number of visits in the SV.
 
 .. image:: ../../figures/lsstcam_20250930/sv_area_per_band_scaled.png
-  :width: 45 %
+  :width: 47 %
   :align: right
   :alt: Area covered with a given number of visits in SV, scaled by Y1 number of visits.
+
+
+The amount of area observed with the equivalent of one year WFD number of visits in each of giz band was around 300 sq degrees.
+Over 1000 sq degrees received at least the equivalent of half the integrated exposure time of one year of LSST WFD.
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+    :glob:
+
+.. admonition:: Last Updated
+
+  Last Updated 2025/10/01
+..   *
