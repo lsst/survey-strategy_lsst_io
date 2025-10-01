@@ -163,19 +163,40 @@ at this time of year, but the shape and variability of the PSF is likely to be b
   :width: 70 %
   :alt: SV survey visit delivered image quality, in the wide area
 
-The individual image depth throughout the SV wide area is comparable to the depth expected from baseline survey simulations.
-The shallower depths in r and i is likely due to slightly worse seeing than in the simulations, but could also be due to cloud cover.
-
-======================  ====  ====  ====  ====  ====  ====
-..                         u     g     r     i     z     y
-======================  ====  ====  ====  ====  ====  ====
-Estimated 5sigma depth  24.0  24.4  23.8  23.2  22.6  21.7
-Baseline 5sigma v5      23.4  24.5  24.1  23.5  23.0  22.0
-======================  ====  ====  ====  ====  ====  ====
+  SV delivered image quality per visit, for visits within the Wide SV area.
 
 .. figure:: ../../figures/lsstcam_20250930/sv_wide_m5.png
   :width: 70 %
   :alt: SV survey visit individual image depth, in the wide area
+
+  SV estimated individual image depth per visit, for visits within the Wide SV area.
+
+
+The individual image depth throughout the SV wide area is slightly shallower than the depth expected from
+baseline survey simulations (which consider the entire survey footprint and the entire 10 years of operations).
+This can be attributed  to slightly worse delivered image quality and slightly higher mean cloud extinction.
+In good conditions, the measured median zero points for individual images were consistent with zeropoints
+predicted from the throughput curves from `syseng_throughputs <https://github.com/lsst-pst/syseng_throughputs>`_,
+suggesting that the overall system sensitivity is generally as expected.
+
+
+==========  ================  ======================  ==================  ===========
+..          median airmass    median fwhm (arcsec)    mean cloud (mag)    median m5
+==========  ================  ======================  ==================  ===========
+baseline u              1.21                    1.25                0           23.34
+SV u                    1.14                    1.18                0.18        23.99
+baseline g              1.23                    1.15                0           24.44
+SV g                    1.22                    1.26                0.26        24.37
+baseline r              1.22                    1.08                0           24.03
+SV r                    1.24                    1.26                0.33        23.76
+baseline i              1.22                    1.03                0           23.50
+SV i                    1.24                    1.24                0.23        23.25
+baseline z              1.22                    1.02                0           22.94
+SV z                    1.24                    1.17                0.17        22.63
+baseline y              1.22                    1.02                0           22.00
+SV y                    1.25                    1.25                0.08        21.72
+==========  ================  ======================  ==================  ===========
+
 
 SV DDFs
 -------
