@@ -53,6 +53,10 @@ Information contained in the database is based on entries in the `Consolidated D
 Additional columns have been added as part of post-processing from the `rubin_nights <https://github.com/lsst-sims/rubin_nights>`_ package.
 The database follows the current `opsim schema <https://rubin-scheduler.lsst.io/fbs-output-schema.html>`_, but adds the columns from the ConsDb and rubin_nights, as described in the links above.
 
+.. Important::
+    A `tutorial notebook <https://rsp.lsst.io/guides/notebooks/jupyter-notebooks/tutorial-notebooks.html>`_ demonstrating how to query, load, and visualize the metadata in the ``lsstcam_20250930`` database is available in the Rubin Science Platform at `data.lsst.cloud <https://data.lsst.cloud/>`_, temporarily, until the ``Visit`` table for Data Preview 2 is released.
+
+
 The small field survey science visits can be identified by ``field_survey_science`` in the ``observation_reason`` in the database
 (and vice versa, SV visits can be identified by excluding ``field_survey_science``).
 Visits acquired as part of DDF sequences can be identified by ``ddf`` as part of the ``observation_reason``.
@@ -296,5 +300,5 @@ Over 1000 sq degrees received at least the equivalent of half the integrated exp
 
 .. admonition:: Last Updated
 
-  Last Updated 2025/10/01
+  Last Updated 2025/11/25
 ..   *
