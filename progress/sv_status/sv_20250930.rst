@@ -300,5 +300,5 @@ Over 1000 sq degrees received at least the equivalent of half the integrated exp
 
 .. admonition:: Last Updated
 
-  Last Updated 2025/10/01
+  Last Updated 2025/11/25
 ..   *
