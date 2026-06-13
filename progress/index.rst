@@ -20,21 +20,21 @@ Survey Progress
 
 .. This section should provide a brief, top-level description of the page.
 
-Current status: Rubin Observatory has been in a period of early operations optimization since the handover from the Project in late October 2025. 
-Observations during this period have been a mixture of intensive engineering time focused on tuning of the Simonyi Survey Telescope including its Active Optics System, and Feature-Based Scheduler-driven "Pre-LSST" observations to test various aspects of summit performance (notably image quality and survey speed) under realistic survey conditions. 
+Current status: Rubin Observatory has been in a period of early operations optimization since the handover from the Project in late October 2025.
+Observations during this period have been a mixture of intensive engineering time focused on tuning of the Simonyi Survey Telescope including its Active Optics System, and Feature-Based Scheduler-driven "Pre-LSST" observations to test various aspects of summit performance (notably image quality and survey speed) under realistic survey conditions.
 
-The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) is due to begin shortly, when a set of performance criteria have been met. 
+The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) is due to begin shortly, when a set of performance criteria have been met.
 See `RTN-093 <https://rtn-093.lsst.io>`_ for more information.
 
 `Nightly Scheduler Reports <https://s3df.slac.stanford.edu/data/rubin/sim-data/schedview/reports/>`_
-(updated daily) are available throughout early operations, with an archive dating back to June 2025. 
+(updated daily) are available throughout early operations, with an archive dating back to June 2025.
 These include a summary of observations taken, along side pre-night simulations of that night and a comparison of the actual visits with the predicted ones.
 
 
-Summary of pre-LSST, June 2026
-##############################
+Pre-LSST summary
+################
 
-An overview of all pre-LSST observations obtained with LSSTCam, as of June 2026.
+An overview of all pre-LSST observations obtained with LSSTCam.
 
 .. toctree::
    :maxdepth: 1

@@ -14,12 +14,12 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-####################
-Summary, June 7 2026
-####################
+#############################
+Pre-LSST summary, June 7 2026
+#############################
 
-A database file of observational metadata is available in the Rubin Science Platform, along with a tutorial notebook that demonstrates how to query, load, and visualize the metadata (``Commissioning/101_LSSTCam_visits_metadata``).
-An executed version is available in the `Prompt Products tutorials <https://prompt-products.lsst.io/tutorials/index.html>`_, and some of the plots created in that tutorial are shown below.
+A database file of observational metadata is available in the `Rubin Science Platform <https://data.lsst.cloud/>`_, along with a tutorial notebook that demonstrates how to query, load, and visualize the metadata (``Commissioning/101_LSSTCam_visits_metadata``).
+An executed version of the tutorial is available in the `Prompt Products documentation <https://prompt-products.lsst.io/tutorials/index.html>`_, and some of the plots created in that tutorial are shown below.
 The file and tutorial are made available on a temporary basis, until they're superseded by a data release.
 
 Overview
