@@ -31,6 +31,20 @@ See `RTN-093 <https://rtn-093.lsst.io>`_ for more information.
 These include a summary of observations taken, along side pre-night simulations of that night and a comparison of the actual visits with the predicted ones.
 
 
+Summary of pre-LSST, June 2026
+##############################
+
+An overview of all pre-LSST observations obtained with LSSTCam, as of June 2026.
+
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+   :glob:
+
+   pre_lsst_2026/index
+
+
+
 The 2025 Science Validation Survey
 ##################################
 
