@@ -20,29 +20,57 @@ Survey Progress
 
 .. This section should provide a brief, top-level description of the page.
 
-Current status: early operations optimization (pre-lsst) is ongoing.
+Current status: Rubin Observatory is in a period of early operations optimization known as Pre-LSST.
+
+The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) is due to begin shortly, when a set of performance criteria have been met.
+See `RTN-093 <https://rtn-093.lsst.io>`_ for more information.
+
+`Nightly Scheduler Reports <https://s3df.slac.stanford.edu/data/rubin/sim-data/schedview/reports/>`_
+(updated daily) are available throughout early operations, with an archive dating back to June 2025.
+These include a summary of observations taken, along side pre-night simulations of that night and a
+comparison of the actual visits against predictions.
 
 
-The Science Validation (SV) survey
-described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6 is complete. The SV survey, along with pre-lsst data up to Jan 2026, will be included in Data Preview 2.
+:doc:`Pre-LSST <pre_lsst/index>`
+################################
 
-Plans for early data releases are described in
-`RTN-011 <https://rtn-011.lsst.io>`_, including timelines for the start of the LSST.
-
-Automated daily updates of survey coverage are available at
-`Nightly survey monitoring <https://s3df.slac.stanford.edu/data/rubin/sim-data/schedview/reports/>`_.
-
+Following the handover from the Construction Project in late October 2025,
+Rubin Observatory has been in a period of early operations optimization known
+colloquially as "Pre-LSST".
+Observations during this period, October 2025 to present, have been a mixture of
+intensive engineering time and Feature Based Scheduler (FBS) driven "Pre-LSST"
+observations.
 
 .. toctree::
-    :maxdepth: 2
-    :titlesonly:
-    :glob:
+   :maxdepth: 2
+   :titlesonly:
+   :glob:
 
-    sv_status/index
-    pre_lsst/index
+   pre_lsst/index
+
+
+
+:doc:`Science Validation Survey <sv_status/index>`
+##################################################
+
+The Rubin Construction Project's Commissioning team executed the Science Validation (SV) survey
+described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6 during the last 6 months of the Project,
+from April to September 2025.
+Data acquired during this commissioning period will be released as part of Data Preview 2 (DP2), described in
+`RTN-011 <https://rtn-011.lsst.io>`_.
+
+The SV survey progress pages were updated weekly and
+contained forecast information, as well as current status.
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   :glob:
+
+   sv_status/index
 
 .. admonition:: Last Updated
 
-   Last Updated 2026/04/20
+   Last Updated 2026/06/22
 
 ..   *

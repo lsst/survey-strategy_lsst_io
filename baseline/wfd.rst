@@ -96,6 +96,17 @@ baseline. The four-cycle rolling cadence is still under discussion; the SCOC dec
 on three versus four cycles of rolling will likely come after the start of Operations
 once the recovery of faster timescale transient discovery is better understood.
 
+With the updated predictions of on-sky availability and requirements for building templates
+available as of the v5.3 update, we have also introduced the possibility of delaying
+the start of rolling.
+Uniform rolling would still permit a delay in the start of rolling cadence to the end
+of year two, however this means that the intermediate data release at year 4 would necessarily
+become non-uniform. An addition option in this case where uniform data releases would
+be at years 1, 2, 7, 10 is to introduce a further perturbation in the rolling cycles so
+that the year 7 intermediate data release moves to year 5. These options are still
+under discussion with the SCOC and a decision is unlikely to be made until progress
+in year 1 is better understood.
+
 .. image:: ../figures/season_figs/rolling_cadence_nvisits_per_season.png
   :width: 600
   :alt: A histogram of the number of visits per season with uniform rolling cadence.
@@ -122,6 +133,6 @@ In high-actvity seasons, the total number of visits increases above the median, 
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/07/28
+   Last Updated 2026/06/22
 
 ..   *
