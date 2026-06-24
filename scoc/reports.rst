@@ -27,6 +27,8 @@ SCOC recommendations
 Project Science Tech Notes (PSTN) reports from the SCOC.
 Similar recommendation reports will be created throughout operations.
 
+* `PSTN-057 <https://pstn-057.lsst.io>`_ Phase 4 Recommendations (2026)
+
 * `PSTN-056 <https://pstn-056.lsst.io>`_ Phase 3 Recommendations (2024)
 
 * `PSTN-055 <https://pstn-055.lsst.io>`_ Phase 2 Recommendations (2023)
@@ -45,7 +47,9 @@ SCOC endorsements
 SST reports
 ===========
 
-PSTN created by Rubin staff on the Survey Scheduling Team (SST).
+Technotes created by Rubin staff on the Survey Scheduling Team (SST).
+
+* `SMTN-020 <https://smtn-020.lsst.io>`_ Commissioning the Feature Based Scheduler (2026)
 
 * `PSTN-054 <https://pstn-054.lsst.io>`_ Throughput and limiting magnitudes estimates (2022)
 
@@ -72,4 +76,4 @@ Publications
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/02/26
+   Last Updated 2026/06/22
