@@ -8,31 +8,17 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Progress-Index:
+.. _PreLSST-Index:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-###############
-Survey Progress
-###############
+###################################
+Pre-LSST Overview
+###################################
 
 .. This section should provide a brief, top-level description of the page.
-
-Current status: Rubin Observatory is in a period of early operations optimization known as Pre-LSST.
-
-The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) is due to begin shortly, when a set of performance criteria have been met.
-See `RTN-093 <https://rtn-093.lsst.io>`_ for more information.
-
-`Nightly Scheduler Reports <https://s3df.slac.stanford.edu/data/rubin/sim-data/schedview/reports/>`_
-(updated daily) are available throughout early operations, with an archive dating back to June 2025.
-These include a summary of observations taken, along side pre-night simulations of that night and a
-comparison of the actual visits against predictions.
-
-
-:doc:`Pre-LSST <pre_lsst/index>`
-################################
 
 Following the handover from the Construction Project in late October 2025,
 Rubin Observatory has been in a period of early operations optimization known
@@ -41,33 +27,26 @@ Observations during this period, October 2025 to present, have been a mixture of
 intensive engineering time and Feature Based Scheduler (FBS) driven "Pre-LSST"
 observations.
 
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
-   :glob:
+The engineering time has focused on tuning of the Simonyi Survey Telescope,
+including its Active Optics System, to improve image quality.
+The Pre-LSST FBS observations' primary goal is to facilitate evaluation of
+summit performance in terms of image quality and survey speed.
 
-   pre_lsst/index
+The configuration of the FBS observations follow the SCOC Phase 3 recommendations,
+but at times add constraints to facilitate image quality investigations.
+The FBS configuration also adds a template acquisition survey mode to
+compliment lessons learned during commissioning. The general configuration
+was similar to v5.0, but with the addition of this single-visit template tier.
 
 
-
-:doc:`Science Validation Survey <sv_status/index>`
-##################################################
-
-The Rubin Construction Project's Commissioning team executed the Science Validation (SV) survey
-described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6 during the last 6 months of the Project,
-from April to September 2025.
-Data acquired during this commissioning period will be released as part of Data Preview 2 (DP2), described in
-`RTN-011 <https://rtn-011.lsst.io>`_.
-
-The SV survey progress pages were updated weekly and
-contained forecast information, as well as current status.
 
 .. toctree::
-   :maxdepth: 2
-   :titlesonly:
-   :glob:
+    :maxdepth: 2
+    :titlesonly:
+    :glob:
 
-   sv_status/index
+    pre_lsst_20260607
+
 
 .. admonition:: Last Updated
 
