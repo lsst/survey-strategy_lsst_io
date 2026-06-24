@@ -20,14 +20,14 @@ LSST Baseline Strategy
 
 .. This section should provide a brief, top-level description of the page.
 
-.. image:: ../figures/baseline_v5.0.0_10yrs_nvisits.png
+.. image:: ../figures/baseline_v5.3.0_10yrs_nvisits.png
   :width: 700
   :alt: The baseline survey simulation sky coverage.
 
 
 |
 
-The Rubin Observatory's current baseline survey (v5.0.0) for LSST consists of :
+The Rubin Observatory's current baseline survey (v5.3.0) for LSST consists of :
 
 * :doc:`The "Wide Fast Deep" (WFD) <wfd>`. This is the bulk of the survey, and is designed to achieve the core science goals of the Legacy Survey of Space and Time (LSST). The WFD uses slightly more than 80% of the total survey time.
 
@@ -35,11 +35,11 @@ The Rubin Observatory's current baseline survey (v5.0.0) for LSST consists of :
 
 * :doc:`"Deep Drilling Fields" (DDFs) <ddf>`. These are single pointings (about 10 square degrees each), which receive intensive observations on a regular basis. Each DDF will reach at least 1 magnitude deeper than the WFD coadded depths. The DDFs use around 7% of the total survey time.
 
-* :doc:`"Target of Opportunity" (ToOs) <too>` observations. These are simulated ToOs, modeled after the expectations of the `Rubin 2024 ToO workshop <https://lssttooworkshop.github.io/>`_ and consist of around 3% of total survey time.
+* :doc:`"Target of Opportunity" (ToOs) <too>` observations. In the baseline simulation, these are also simulated ToOs, modeled after the expectations of the `Rubin 2024 ToO workshop <https://lssttooworkshop.github.io/>`_ and consist of around 3% of total survey time. These represent the expected followup of real ToOs during the LSST.
 
 
 The current baseline survey strategy is illustrated in the
-`baseline_v5.0.0_10yrs <https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs5.0/baseline/baseline_v5.0.0_10yrs.db>`_
+`baseline_v5.3.0_10yrs <https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs5.3/baseline/baseline_v5.3.0_10yrs.db>`_
 simulation, although this (and any) simulation is limited in its representative
 status due to the fact that is a specific implementation under specific weather
 and observatory conditions. Changes to the survey simulation over time can be found
@@ -65,6 +65,6 @@ in the :doc:`Changes <changes>` section.
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/07/28
+   Last Updated 2026/06/22
 
 ..   *

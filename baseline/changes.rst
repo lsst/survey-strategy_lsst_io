@@ -31,6 +31,37 @@ All of the updates below are (so far) pre-commissioning, pre-operations.
 Full metric outputs for recent simulations are available at
 `USDF MAF <https://usdf-maf.slac.stanford.edu>`_.
 
+v5.3.0
+======
+These simulations include significant updates in our expectations for on-sky availability and observatory performance.
+The strategy also includes updates to reflect lessons learned during commissioning and in processing the images acquired during commissioning.
+
+While our understanding of the observatory on-sky efficiency and availability
+is still evolving, v5.3 contains significant updates from previous simulations.
+Planned maintenance time in every year goes from 2 weeks/year to 3 weeks/year,
+with an additional 8 weeks in years 4 and 8. Additional planned engineering time
+has been added, 1 night every 25 days, as well as an average of 2 x 0.5 nights for the first six
+months. More realistic fault time within each night has also been added.
+Slew speeds are modeled as a 20% TMA movement (instead of 40% as in v5.0),
+along with a 3s settle for every slew (this is the same as in previous simulations).
+The overall effect of this increased downtime is a reduction in overall visits of about 10%.
+
+The strategy is generally similar to previous simulations. However, we have
+added a template tier which acquires visits in pairs separated by 25 minutes, in
+order to improve the likelihood of acquiring visits suitable for template creation
+over the whole sky in year one. We have also modified the pairs survey tiers; instead
+of a tier of pairs separated by 33 minutes and another tier of pairs separated by 15 minutes,
+there is now a single tier of pairs with a goal time separation of 33 minutes
+but that can scale from 20 to 45 minutes as needed to fill the available time
+before a scheduled event (morning twilight, a DDF sequence, or any other scripted observation).
+
+More details of the changes in v5.3 are available in the materials provided
+in the `The Sixth SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop6/home>`_. 
+
+`v5.3 configuration <https://github.com/lsst-sims/sims_featureScheduler_runs5.3/tree/main/baseline>`_.
+
+`v5.3 metric updates <https://github.com/lsst-pst/survey_strategy/blob/main/fbs_5.3/v5.3_Update.ipynb>`_.
+
 v5.0.0
 ======
 These simulations incorporate additional information from commissioning.
