@@ -79,7 +79,7 @@ alternating seasons. After a complete high/low (or low/high) cycle, the same num
 visits has been acquired in each region as would have been acquired if the typical
 average cadence had been followed over the same period.
 
-.. image:: ../figures/season_figs/baseline_v5_3_0_10yrs_NVisPerSeason_season_2_HEAL_SkyMap.png
+.. image:: ../figures/season_figs/baseline_v5_3_0_10yrs_NVisPerSeason_season_5_WFD_HEAL_SkyMap.png
   :width: 600
   :alt: The WFD declination bounded regions for rolling cadence.
         
@@ -113,7 +113,7 @@ in year 1 is better understood.
 
 
 During an average-cadence season, a low-dust WFD pointing would typically receive on the
-order of 80 visits (800 visits total / 10 seasons). In a low-cadence season, the
+order of 80 visits (750 visits total / 10 seasons). In a low-cadence season, the
 number of visits drops to on the order of 25 visits; in a high-cadence season the number
 of visits is closer to 125. In all cases, the average season length remains on the order of 180 days.
 
