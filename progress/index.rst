@@ -31,7 +31,7 @@ These include a summary of observations taken, along side pre-night simulations 
 comparison of the actual visits against predictions.
 
 
-:doc:`Pre-LSST <pre_lsst/index>`
+:doc:`Pre-LSST <prelsst/index>`
 ################################
 
 Following the handover from the Construction Project in late October 2025,
@@ -46,12 +46,12 @@ observations.
    :titlesonly:
    :glob:
 
-   pre_lsst/index
+   prelsst/index
 
 
 
 :doc:`2025 Science Validation Survey <sv_status/index>`
-##################################################
+########################################################
 
 The Rubin Construction Project's Commissioning team executed the Science Validation (SV) survey
 described in `SITCOMTN-005 <https://sitcomtn-005.lsst.io>`_ section 6 during the last 6 months of the Project,
