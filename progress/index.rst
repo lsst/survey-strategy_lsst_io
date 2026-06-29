@@ -50,7 +50,7 @@ observations.
 
 
 
-:doc:`Science Validation Survey <sv_status/index>`
+:doc:`2025 Science Validation Survey <sv_status/index>`
 ##################################################
 
 The Rubin Construction Project's Commissioning team executed the Science Validation (SV) survey

@@ -45,11 +45,12 @@ was similar to v5.0, but with the addition of this single-visit template tier.
     :titlesonly:
     :glob:
 
+    dp2
     pre_lsst_20260607
 
 
 .. admonition:: Last Updated
 
-   Last Updated 2026/06/22
+   Last Updated 2026/06/28
 
 ..   *
