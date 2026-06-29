@@ -1,4 +1,10 @@
 *.npz
+notebooks/*png
+notebooks/*pdf
+notebooks/*/*png
+notebooks/*/*pdf
+*.h5
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

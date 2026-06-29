@@ -79,7 +79,7 @@ alternating seasons. After a complete high/low (or low/high) cycle, the same num
 visits has been acquired in each region as would have been acquired if the typical
 average cadence had been followed over the same period.
 
-.. image:: ../figures/season_figs/baseline_v5_0_0_10yrs_NVisPerSeason_season_1_HEAL_SkyMap.png
+.. image:: ../figures/season_figs/baseline_v5_3_0_10yrs_NVisPerSeason_season_2_HEAL_SkyMap.png
   :width: 600
   :alt: The WFD declination bounded regions for rolling cadence.
         
@@ -133,6 +133,6 @@ In high-actvity seasons, the total number of visits increases above the median, 
 
 .. admonition:: Last Updated
 
-   Last Updated 2026/06/22
+   Last Updated 2026/06/28
 
 ..   *

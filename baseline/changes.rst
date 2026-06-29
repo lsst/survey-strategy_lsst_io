@@ -283,4 +283,6 @@ number of visits per pointing in the WFD.
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/07/28
+   Last Updated 2026/06/28
+
+..   *
