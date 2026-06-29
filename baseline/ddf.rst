@@ -20,22 +20,25 @@ Deep Drilling Fields
 
 .. This section should provide a brief, top-level description of the page.
 
-Rubin Observatory's LSST Deep Drilling Field program includes 5 DDF fields,
+Rubin Observatory's LSST Deep Drilling Field (DDF) program includes 5 DDF fields,
 chosen to maximize multi-wavelength coverage with pre-existing surveys.
 One of the pointings, the Euclid Deep Field South (EDFS) pointing, is a larger field
 and so is split between an 'a' and 'b' pointing which share the DDF visits.
 
-The DDFs use a total of about 6.5% of the total survey time.
+The DDF visits are expected to use between about 6.5% to 7% of the total survey time.
 Each DDF receives on the order of 20,000 visits, except COSMOS which receives
 approximately double that. The COSMOS
 field has been selected to receive additional coverage, in order to
 reach 10-year DDF depth within the first 3 years of the survey as a pathfinder
 for Data Management processing and science opportunities.
 
-The cadence for DDF visits is still under development.
-The
-`DDF Task Force <https://docs.google.com/document/d/14_yHmpsLpM0eRuphk_EEWXiOHYsfnW0Qp35K0ZGGwqk/edit?usp=sharing>`_
-is a useful contact point.
+The cadence for the DDFs involves a mixture of "deep" and "ultradeep" seasons.
+In every season, short sequences execute every two to three days, keeping a tight monitoring cadence on the DDF fields. These are the deep seasons.
+In an ultradeep season, longer sequences of approximately 100 visits are added
+every few nights.
+The bulk of each DDFs visits are acquired in these ultradeep seasons.
+All DDFs except COSMOS have a single ultradeep season; COSMOS has multiple.
+
 
 Deep Drilling Field Locations
 =============================
@@ -61,6 +64,6 @@ Eclip b     -43.2      -17.92   -45.44     -9.34    -66.61    -66.6
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/07/28
+   Last Updated 2026/06/22
 
 ..   *

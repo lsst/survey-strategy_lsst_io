@@ -25,6 +25,10 @@ The SCOC values its interactions with, and input from, the community.
 Workshops
 =========
 
+* `The Sixth SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop6/home>`_ (06/2026)
+
+* `The Fifth SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop5/home>`_ (05/2025)
+
 * `The Fourth SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop4/home>`_ (01/2023)
 
 * `The Third SCOC-Science Collaborations Workshop <https://project.lsst.org/meetings/scoc-sc-workshop3/home>`_ (11/2022)
@@ -57,7 +61,12 @@ White papers and cadence notes
 Task forces
 ===========
 
-Three SCOC Task Forces were active in 2023.
+One SCOC Task Force is being formed in 2026.
+
+* Footprint Optimization (charge and contacts TBD).
+
+
+Three SCOC Task Forces were active from 2023 - 2025.
 
 * Uniformity of data releases (`charge and contacts <https://docs.google.com/document/d/1lBctAbIqhVz3Afr8_HLwLgL7yJyXIAXoT2ra_GmBWM4/edit?usp=sharing>`_)
 * Milky Way strategy finalization (`charge and contacts <https://docs.google.com/document/d/1p3FeCGi2K_XTEQHRao_GS5Wett9L9JCENvD8qLqZ3dY/edit?usp=sharing>`_)
@@ -66,4 +75,4 @@ Three SCOC Task Forces were active in 2023.
 
 .. admonition:: Last Updated
 
-   Last Updated 2025/02/26
+   Last Updated 2026/06/22

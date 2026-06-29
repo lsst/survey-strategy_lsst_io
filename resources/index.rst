@@ -44,7 +44,7 @@ $RUBIN_SIM_DATA_DIR appropriately.
 
     # on the USDF RSP
     os.environ["RUBIN_SIM_DATA_DIR"] = "/sdf/data/rubin/shared/rubin_sim_data"
-    # on the cloud RSPs
+    # on the community data.lsst.cloud RSP
     os.environ["RUBIN_SIM_DATA_DIR"] = "/rubin/rubin_sim_data"
 
 
@@ -54,7 +54,7 @@ $RUBIN_SIM_DATA_DIR appropriately.
 Simulations
 ===========
 
-The current official baseline simulations (v5.0) are available for download at https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs5.0/
+The current official baseline simulations (v5.3) are available for download at https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs5.3/
 
 Previous sets of simulations are also available for download, under similar URLs at
 https://s3df.slac.stanford.edu/data/rubin/sim-data/
@@ -71,6 +71,13 @@ Support
 =======
 
 Support for evaluating MAF metrics or understanding survey strategy simulations
-is available via posts on the Rubin Community Forum in the
+is available (preferably) via posts on the Rubin Community Forum in the
 `survey strategy <https://community.lsst.org/c/sci/survey-strategy/>`_ area,
-or via questions on the LSSTC slack on channel #sims-maf or #sims.
+or via questions on the LSSTC slack on the #sims channel.
+
+
+.. admonition:: Last Updated
+
+   Last Updated 2026/06/28
+
+..   *

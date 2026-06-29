@@ -22,8 +22,7 @@ Target of Opportunity (ToO)
 
 The SCOC has recommended that up to 3% of Rubin's survey time be available for
 Target of Opportunity observations (`PSTN-055 <https://pstn-055.lsst.io>`_).
-Details of what ToOs could entail, how they would be triggered, and how they should
-be observed are still under discussion.
+
 
 ToO Followup Expectations
 =========================
@@ -33,8 +32,15 @@ opportunity to more fully define the requirements for ToO observations. The
 `report <https://lssttooworkshop.github.io/images/Rubin_2024_ToO_workshop_final_report.pdf>`_
 from this workshop is available now.
 
-Details of how to implement ToO followup within Rubin are still under discussion.
+The `Target of Opportunity Advisory Board <https://rtn-110.lsst.io>`_  is charged
+with providing feedback on ToO progress and advice on ToO triggers on various
+timescales. The advisory board will work with the Rubin Target of Oppportunity
+Observer (RTO), a role responsible for shepherding ToO observations in real-time.
 
+The commissioning period provided some opportunities to test the ToO procedures
+and implementation at the summit and within the FBS operating in real-time.
+These included observations of interstellar object 3I/ATLAS and gravitational wave
+candidate S251112cm.
 
 
 .. toctree::
@@ -44,6 +50,6 @@ Details of how to implement ToO followup within Rubin are still under discussion
 
 .. admonition:: Last Updated
 
-   Last Updated 2024/12/19
+   Last Updated 2026/06/28
 
 ..   *
