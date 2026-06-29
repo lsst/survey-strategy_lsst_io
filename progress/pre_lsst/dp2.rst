@@ -15,7 +15,7 @@
 .. A warning will alert you of identical labels during the linkcheck process.
 
 #############################
-Data Preview 2
+Data Preview 2 (DP2)
 #############################
 
 .. figure:: ../../figures/dp2/dp2_nvisits.png
@@ -111,7 +111,7 @@ sufficient to build templates.
 This does have implications for the cadence of observations in DP2 however.
 The bulk (70%) of DP2 visits come from the SV survey and DDFs, thus have a higher
 cadence than LSST; the Pre-LSST visits have a lower cadence than LSST and
-may be further perturbed in cadence due to bandpass constraints. 
+may be further perturbed in cadence due to bandpass constraints.
 
 
 Coverage
@@ -132,10 +132,10 @@ Coverage
 
 
 .. figure:: ../../figures/dp2/dp2_area_per_band.png
-    :widdth: 80%
+    :width: 80%
     :alt: DP2 area covered to at least X visits, per band.
 
-Area covered with at least X visits per band in DP2.
+    Area covered with at least X visits per band in DP2.
 
 
 
