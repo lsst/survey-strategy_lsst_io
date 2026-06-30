@@ -48,7 +48,7 @@ comparison of the actual visits against predictions.
 Following the handover from the Construction Project in late October 2025,
 Rubin Observatory was in a period of early operations optimization known
 colloquially as "Pre-LSST".
-Observations during this period, October 2025 to June 2026, have been a mixture of
+Observations during this period, October 2025 to June 2026, were a mixture of
 intensive engineering time and Feature Based Scheduler (FBS) driven "Pre-LSST"
 observations.
 
