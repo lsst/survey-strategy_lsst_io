@@ -20,24 +20,35 @@ Survey Progress
 
 .. This section should provide a brief, top-level description of the page.
 
-Current status: Rubin Observatory is in a period of early operations optimization known as Pre-LSST.
 
-The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) is due to begin shortly, when a set of performance criteria have been met.
-See `RTN-093 <https://rtn-093.lsst.io>`_ for more information.
+:doc:`LSST <lsst/index>`
+#########################
+
+Current status: Rubin Observatory has begun the 10-year Legacy Survey of Space and Time (LSST)
+as of June 29, 2026. The :doc:`baseline survey strategy <../baseline/index>`
+is in place.
 
 `Nightly Scheduler Reports <https://s3df.slac.stanford.edu/data/rubin/sim-data/schedview/reports/>`_
-(updated daily) are available throughout early operations, with an archive dating back to June 2025.
-These include a summary of observations taken, along side pre-night simulations of that night and a
+(updated daily) provide a summary of observations taken,
+along with pre-night simulations of upcoming nights and a
 comparison of the actual visits against predictions.
+
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   :glob:
+
+   lsst/index
 
 
 :doc:`Pre-LSST <prelsst/index>`
 ################################
 
 Following the handover from the Construction Project in late October 2025,
-Rubin Observatory has been in a period of early operations optimization known
+Rubin Observatory was in a period of early operations optimization known
 colloquially as "Pre-LSST".
-Observations during this period, October 2025 to present, have been a mixture of
+Observations during this period, October 2025 to June 2026, were a mixture of
 intensive engineering time and Feature Based Scheduler (FBS) driven "Pre-LSST"
 observations.
 
