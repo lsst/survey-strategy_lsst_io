@@ -35,8 +35,14 @@ Visit Database
 ==============
 
 A pointing database similar to the one released at the end of the SV survey
-is available for download from
-`prelsst_20260619_visits.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/prelsst/prelsst_20260619_visits.db>`_
+is available for download from :
+
+.. parsed-literal::
+
+    `prelsst_20260619_visits.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/prelsst/prelsst_20260619_visits.db>`_
+    md5sum : ec2517467786798bea746017ee91e33e
+    sha256 : 6c75d1683e0682737d16d44de20545ef4b3e6d29f9f401fd619904975e331c49
+
 
 This database follows the DP2 visit list up to January 6, 2026.
 After January 6, 2026, all on-sky science visits have been included.
@@ -149,6 +155,6 @@ particularly when evaluating a particular visit or detector.
 
 .. admonition:: Last Updated
 
-   Last Updated 2026/06/28
+   Last Updated 2026/07/24
 
 ..   *
