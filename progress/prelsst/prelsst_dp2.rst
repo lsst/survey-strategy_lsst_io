@@ -43,8 +43,13 @@ Visit Database
 ==============
 
 A pointing database similar to the one released at the end of the SV survey
-is available for download from
-`dp2_visits.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/prelsst/dp2_visits.db>`_
+is available for download from :
+
+.. parsed-literal::
+
+    `dp2_visits.db <https://s3df.slac.stanford.edu/data/rubin/sim-data/prelsst/dp2_visits.db>`_
+    md5sum : 7ffddd4e552e93d02ef797d6ec7e5138
+    sha256 : 3ff666cbfe4052db82b864cafdd85332fb55b47e7d7f80e5276866811e3afba6
 
 Note that not all detectors or visits may end up processed successfully
 through all DP2 pipelines. The visit database represents the set of visits
@@ -157,6 +162,6 @@ detector.
 
 .. admonition:: Last Updated
 
-   Last Updated 2026/06/28
+   Last Updated 2026/07/24
 
 ..   *
