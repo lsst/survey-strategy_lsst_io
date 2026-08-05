@@ -43,7 +43,7 @@ The process of designing the LSST survey strategy is described in
 
 
 
-The survey strategy itself is described in  PSTNs technical documents, all with citable with an associated DOI: the most recent survey strategy PSTNs are `PSTN-056 <PSTN-056.lsst.io>`_ which describes the survey strategy in detail (DOI 10.71929/rubin/2585402) and `PSTN-057 <PSTN-057.lsst.io>`_ (DOI 10.71929/rubin/3395070) which describes updates to PSTN-056 specifically relevant to the first years of LSST.  
+The survey strategy itself is described in  PSTNs technical documents, all with citable with an associated DOI: the most recent survey strategy PSTNs are `PSTN-056 <https://pstn-056.lsst.io>`_ which describes the survey strategy in detail (DOI 10.71929/rubin/2585402) and `PSTN-057 <https://pstn-057.lsst.io>`_ (DOI 10.71929/rubin/3395070) which describes updates to PSTN-056 specifically relevant to the first years of LSST.  
 
 ::
 
