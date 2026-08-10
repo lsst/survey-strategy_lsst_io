@@ -71,6 +71,7 @@ The survey strategy itself is described in  PSTNs technical documents, all with 
     handle = "PSTN-057",
     type = "{Project Science Technical Note}",
     number = "PSTN-057",
+    doi = "10.71929/rubin/3395070",
     url = "https://pstn-057.lsst.io/"
   }
 
