@@ -21,7 +21,7 @@ How to cite the LSST survey strategy
 
 The process of designing the LSST survey strategy is described in 
 
-`Optimization of the Observing Cadence for the Rubin Observatory Legacy Survey of Space and Time: A Pioneering Process of Community-focused Experimental Design Federica B. Bianco et al 2022 ApJS 258 1  <https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ DOI 10.3847/1538-4365/ac3e72
+`Optimization of the Observing Cadence for the Rubin Observatory Legacy Survey of Space and Time: A Pioneering Process of Community-focused Experimental Design Federica B. Bianco et al 2022 ApJS 258 1  <https://iopscience.iop.org/article/10.3847/1538-4365/ac3e72>`_ and `DOI 10.3847/1538-4365/ac3e72 <https://doi.org/10.3847/1538-4365/ac3e72>`_
 
 
 ::
@@ -43,7 +43,7 @@ The process of designing the LSST survey strategy is described in
 
 
 
-The survey strategy itself is described in  PSTNs technical documents, all with citable with an associated DOI: the most recent survey strategy PSTNs are `PSTN-056 <https://pstn-056.lsst.io>`_ which describes the survey strategy in detail (DOI 10.71929/rubin/2585402) and `PSTN-057 <https://pstn-057.lsst.io>`_ (DOI 10.71929/rubin/3395070) which describes updates to PSTN-056 specifically relevant to the first years of LSST.  
+The survey strategy itself is described in  PSTNs technical documents, all with citable with an associated DOI: the most recent survey strategy PSTNs are `PSTN-056 <https://pstn-056.lsst.io>`_ which describes the survey strategy in detail (`DOI 10.71929/rubin/2585402 <https://doi.org/10.71929/rubin/2585402>`_) and `PSTN-057 <https://pstn-057.lsst.io>`_ (`DOI 10.71929/rubin/3395070 <https://doi.org/10.71929/rubin/3395070>`_) which describes updates to PSTN-056 specifically relevant to the first years of LSST.  
 
 ::
 
@@ -75,4 +75,4 @@ The survey strategy itself is described in  PSTNs technical documents, all with 
     url = "https://pstn-057.lsst.io/"
   }
 
-References for all Rubin and LSST documents are available at https://github.com/lsst/lsst-texmf
+References for all Rubin and LSST documents are available at https://github.com/lsst/lsst-texmf (https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib).
