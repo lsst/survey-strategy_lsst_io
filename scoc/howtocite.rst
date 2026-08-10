@@ -75,4 +75,26 @@ The survey strategy itself is described in  PSTNs technical documents, all citab
     url = "https://pstn-057.lsst.io/"
   }
 
+
+If you use the Metric Analysis Framework for Survey Strategy evaluations, please cite 
+`The LSST metrics analysis framework (MAF)", R. Lynne Jones et al., Proc. SPIE 9149, Observatory Operations: Strategies, Processes, and Systems V, 91490B (28 Jul 2014) <https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9149/1/The-LSST-metrics-analysis-framework-MAF/10.1117/12.2056835.full>`_ DOI `10.1117/12.2056835 <https://doi.org/10.1117/12.2056835>`_
+
+::
+
+    @INPROCEEDINGS{2014SPIE.9149E..0BJ,
+        author = {{Jones}, R.~L. and {Yoachim}, Peter and {Chandrasekharan}, Srinivasan and {Connolly}, Andrew J. and {Cook}, Kem H. and {Ivezic}, {\v{Z}}eljko and {Krughoff}, K.~S. and {Petry}, Catherine and {Ridgway}, Stephen T.},
+        title = "{The LSST metrics analysis framework (MAF)}",
+        booktitle = {Observatory Operations: Strategies, Processes, and Systems V},
+        year = 2014,
+        editor = {{Peck}, Alison B. and {Benn}, Chris R. and {Seaman}, Robert L.},
+        series = {Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series},
+        volume = {9149},
+        month = jul,
+        eid = {91490B},
+        pages = {91490B},
+        doi = {10.1117/12.2056835},
+        adsurl = {https://ui.adsabs.harvard.edu/abs/2014SPIE.9149E..0BJ},
+        adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    }
+
 References for all Rubin and LSST documents are available at https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib.
