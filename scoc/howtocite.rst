@@ -75,4 +75,4 @@ The survey strategy itself is described in  PSTNs technical documents, all with 
     url = "https://pstn-057.lsst.io/"
   }
 
-References for all Rubin and LSST documents are available at https://github.com/lsst/lsst-texmf (https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib).
+References for all Rubin and LSST documents are available at https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib.
