@@ -32,6 +32,7 @@ The Survey Cadence Optimization Committee (SCOC; ess-see-oh-see) guides strategi
     community
     reports
     minutes
+    howtocite
 
 
 .. admonition:: Last Updated
