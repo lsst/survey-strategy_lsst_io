@@ -6,4 +6,8 @@ exclude_patterns.extend([
     r"templates",
 ])
 
+extensions = [
+    "sphinxcontrib.jquery",
+]
+
 jupyter_execute_notebooks = "off"
