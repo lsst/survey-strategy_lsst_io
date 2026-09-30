@@ -1,2 +1,4 @@
 documenteer[guide]
 sphinx
+pydata-sphinx-theme
+sphinxcontrib-jquery
